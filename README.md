@@ -62,11 +62,11 @@ Key:
 * [TickSpec](http://tickspec.codeplex.com/)
 
 # Web Application Testing
+* [Canopy](http://lefthandedgoat.github.io/canopy/)
 * [Ivonna](http://ivonna.biz/)
 * ~~[NUnitAsp](http://nunitasp.sourceforge.net/)~~
 * [Selenium](http://www.seleniumhq.org/)
 * [WatiN](http://watin.org/)
-* [Canopy](http://lefthandedgoat.github.io/canopy/)
 
 # User Interface Testing
 * [Microsoft Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx)
