@@ -23,7 +23,8 @@ Key:
 * **[NUnit](http://www.nunit.org/)**
 * [NUnitLite](https://www.nuget.org/packages/NUnitLite/)
 * **[xUnit.net](http://xunit.github.io/)**
-
+* [Unquote](http://www.swensensoftware.com/unquote)
+ 
 # Isolation Frameworks
 * **[FakeItEasy](http://fakeiteasy.github.io/)**
 * [Foq](https://foq.codeplex.com/)
@@ -65,6 +66,7 @@ Key:
 * ~~[NUnitAsp](http://nunitasp.sourceforge.net/)~~
 * [Selenium](http://www.seleniumhq.org/)
 * [WatiN](http://watin.org/)
+* [Canopy](http://lefthandedgoat.github.io/canopy/)
 
 # User Interface Testing
 * [Microsoft Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx)
