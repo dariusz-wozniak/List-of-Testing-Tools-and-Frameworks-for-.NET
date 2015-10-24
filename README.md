@@ -22,7 +22,7 @@ Key:
 * [Microsoft Unit Testing Framework](https://msdn.microsoft.com/en-us/library/ms243147.aspx) (MSTest)
 * **[NUnit](http://www.nunit.org/)**
 * [NUnitLite](https://www.nuget.org/packages/NUnitLite/)
-* * [Unquote](http://www.swensensoftware.com/unquote)
+* [Unquote](http://www.swensensoftware.com/unquote)
 * **[xUnit.net](http://xunit.github.io/)**
  
 # Isolation Frameworks
