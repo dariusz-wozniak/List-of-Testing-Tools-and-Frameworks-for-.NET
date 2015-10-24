@@ -86,7 +86,7 @@ Key:
 * [dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)
 
 # Mutation Testing
-* [CREAM](http://galera.ii.pw.edu.pl/~adr/CREAM/)
+* [CREAM](http://galera.ii.pw.edu.pl/~adr/CREAM/) (CREAtor of Mutants)
 * [Nester](http://nester.sourceforge.net/)
 * [NinjaTurtles](https://ninjaturtles.codeplex.com/)
 * [VisualMutator](http://visualmutator.github.io/web/)
