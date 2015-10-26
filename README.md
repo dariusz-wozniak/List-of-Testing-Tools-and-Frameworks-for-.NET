@@ -19,7 +19,7 @@ Key:
 * [FsUnit](http://fsprojects.github.io/FsUnit/) (F#)
 * [Fuchu](https://github.com/mausch/Fuchu)
 * [MbUnit](https://code.google.com/p/mb-unit/)
-* [Microsoft Unit Testing Framework](https://msdn.microsoft.com/en-us/library/ms243147.aspx) (MSTest)
+* [Microsoft Unit Testing Framework](https://msdn.microsoft.com/en-us/library/ms243147.aspx) (also known as MSTest)
 * **[NUnit](http://www.nunit.org/)**
 * [NUnitLite](https://www.nuget.org/packages/NUnitLite/)
 * [Unquote](http://www.swensensoftware.com/unquote) (F#)
@@ -48,7 +48,7 @@ Key:
 * [Concordion.NET](http://concordion.org/dotnet/)
 * [Cucumber](https://cucumber.io/)
 * ~~[Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki)~~
-* **[Machine.Specifications](https://github.com/machine/machine.specifications)** (MSpec)
+* **[Machine.Specifications](https://github.com/machine/machine.specifications)** (also known as MSpec)
 * ~~[NaturalSpec](https://github.com/forki/NaturalSpec)~~
 * [NBehave](http://nbehave.org/)
 * [NSpec](http://nspec.org/)
@@ -86,7 +86,7 @@ Key:
 * [dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)
 
 # Mutation Testing
-* [CREAM](http://galera.ii.pw.edu.pl/~adr/CREAM/) (CREAtor of Mutants)
+* [CREAM](http://galera.ii.pw.edu.pl/~adr/CREAM/) (also known as CREAtor of Mutants)
 * [Nester](http://nester.sourceforge.net/)
 * [NinjaTurtles](https://ninjaturtles.codeplex.com/)
 * [VisualMutator](http://visualmutator.github.io/web/)
