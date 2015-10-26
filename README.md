@@ -16,13 +16,13 @@ Key:
 
 # Unit Testing Frameworks
 * [csUnit](http://www.csunit.org/)
-* [FsUnit](http://fsprojects.github.io/FsUnit/)
+* [FsUnit](http://fsprojects.github.io/FsUnit/) (F#)
 * [Fuchu](https://github.com/mausch/Fuchu)
 * [MbUnit](https://code.google.com/p/mb-unit/)
 * [Microsoft Unit Testing Framework](https://msdn.microsoft.com/en-us/library/ms243147.aspx) (MSTest)
 * **[NUnit](http://www.nunit.org/)**
 * [NUnitLite](https://www.nuget.org/packages/NUnitLite/)
-* [Unquote](http://www.swensensoftware.com/unquote)
+* [Unquote](http://www.swensensoftware.com/unquote) (F#)
 * **[xUnit.net](http://xunit.github.io/)**
  
 # Isolation Frameworks
