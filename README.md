@@ -83,6 +83,7 @@ Key:
 * ~~[Typemock Racer](http://www.typemock.com/typemock-racer-product-old)~~
 
 # Memory Testing
+* [.NET Memory Profiler](http://memprofiler.com/) (also known as MemProfiler)
 * [dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)
 
 # Mutation Testing
@@ -110,6 +111,7 @@ Key:
 * ~~[OpenCover](https://github.com/OpenCover/opencover)~~
 * [PartCover](http://sourceforge.net/projects/partcover/)
 * [Semantic Designs C# Test Coverage Tool](http://www.semanticdesigns.com/Products/TestCoverage/CSharpTestCoverage.html)
+* [Software Verify .NET Coverage Validator](http://www.softwareverify.com/dotnet-coverage.php)
 * [Squish Coco](http://www.froglogic.com/squish/coco/)
 * [TestMatrix] (http://submain.com/products/testmatrix.aspx)
 * [Typemock Isolator Coverage](http://www.typemock.com/coverage)
