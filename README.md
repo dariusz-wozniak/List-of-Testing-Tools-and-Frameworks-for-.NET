@@ -122,6 +122,7 @@ Key:
 * [Typemock Isolator Smart Runner](http://www.typemock.com/smart-runner)
 
 # Assertion Frameworks
+* [Fixie](http://fixie.github.io/)
 * [Fluent Assertions](http://www.fluentassertions.com/)
 * [SharpTestEx](http://sharptestex.codeplex.com/)
 * [Should Assertion Library](https://github.com/erichexter/Should)
