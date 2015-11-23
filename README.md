@@ -48,6 +48,7 @@ Key:
 * [Concordion.NET](http://concordion.org/dotnet/)
 * [Cucumber](https://cucumber.io/)
 * ~~[Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki)~~
+* [Gauge](http://getgauge.io/)
 * **[Machine.Specifications](https://github.com/machine/machine.specifications)** (also known as MSpec)
 * ~~[NaturalSpec](https://github.com/forki/NaturalSpec)~~
 * [NBehave](http://nbehave.org/)
