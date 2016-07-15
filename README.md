@@ -2,7 +2,7 @@
 
 This is a list of Automated Testing Frameworks for .NET related to methodologies and types of tests:
 - Test-Driven Development (TDD)
-- Behavioral-Driven Development (BDD)
+- Behavior-Driven Development (BDD)
 - Specification by Example (SBE)
 - Acceptance Test-Driven Development (ATDD)
 - Property-Based Testing (PBT)
@@ -44,7 +44,7 @@ Key:
 * [FitNesse](http://fitnesse.org/)
 * [Robot Framework](http://robotframework.org/)
 
-# Behavioral-Driven Development & Specification by Example
+# Behavior-Driven Development & Specification by Example
 * [Concordion.NET](http://concordion.org/dotnet/)
 * [Cucumber](https://cucumber.io/)
 * ~~[Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki)~~
