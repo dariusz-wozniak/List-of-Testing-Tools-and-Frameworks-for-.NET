@@ -49,10 +49,12 @@ Key:
 * [Cucumber](https://cucumber.io/)
 * ~~[Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki)~~
 * [Gauge](http://getgauge.io/)
+* [LightBDD](https://github.com/Suremaker/LightBDD)
 * **[Machine.Specifications](https://github.com/machine/machine.specifications)** (also known as MSpec)
 * ~~[NaturalSpec](https://github.com/forki/NaturalSpec)~~
 * [NBehave](http://nbehave.org/)
 * [NSpec](http://nspec.org/)
+* ~~[Spec4Net](https://bitbucket.org/fthomsen/spec4net/src)~~
 * **[SpecFlow](http://www.specflow.org/)**
 * [SpecsFor](http://specsfor.com/)
 * [Specter](http://specter.sourceforge.net/)
@@ -61,9 +63,12 @@ Key:
 * [SubSpec](https://subspec.codeplex.com/)
 * [System.Spec](https://github.com/alexfalkowski/System.Spec)
 * [TickSpec](http://tickspec.codeplex.com/)
+* [xBehave.net](http://xbehave.github.io/)
 
 # Web Application Testing
 * [Canopy](http://lefthandedgoat.github.io/canopy/)
+* [Coypu](https://github.com/featurist/coypu)
+* [FluentAutomation](http://fluent.stirno.com/)
 * [Ivonna](http://ivonna.biz/)
 * ~~[NUnitAsp](http://nunitasp.sourceforge.net/)~~
 * [Selenium](http://www.seleniumhq.org/)
