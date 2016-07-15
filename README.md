@@ -67,6 +67,8 @@ Key:
 
 # Web Application Testing
 * [Canopy](http://lefthandedgoat.github.io/canopy/)
+* [Coypu](https://github.com/featurist/coypu)
+* [FluentAutomation](http://fluent.stirno.com/)
 * [Ivonna](http://ivonna.biz/)
 * ~~[NUnitAsp](http://nunitasp.sourceforge.net/)~~
 * [Selenium](http://www.seleniumhq.org/)
