@@ -45,6 +45,7 @@ Key:
 * [Robot Framework](http://robotframework.org/)
 
 # Behavior-Driven Development & Specification by Example
+* [ApprovalTests](http://approvaltests.sourceforge.net/)
 * [Concordion.NET](http://concordion.org/dotnet/)
 * [Cucumber](https://cucumber.io/)
 * ~~[Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki)~~
