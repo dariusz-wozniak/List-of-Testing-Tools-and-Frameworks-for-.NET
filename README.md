@@ -115,8 +115,8 @@ Key:
 * [NCover](https://www.ncover.com/)
 * [NCrunch](http://www.ncrunch.net/)
 * [NDepend](http://www.ndepend.com/)
-* ~~[OpenCover](https://github.com/OpenCover/opencover)~~
-* [PartCover](http://sourceforge.net/projects/partcover/)
+* [OpenCover](https://github.com/OpenCover/opencover)
+* ~~[PartCover](http://sourceforge.net/projects/partcover/)~~
 * [Semantic Designs C# Test Coverage Tool](http://www.semanticdesigns.com/Products/TestCoverage/CSharpTestCoverage.html)
 * [Software Verify .NET Coverage Validator](http://www.softwareverify.com/dotnet-coverage.php)
 * [Squish Coco](http://www.froglogic.com/squish/coco/)
