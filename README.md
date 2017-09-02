@@ -120,7 +120,7 @@ Key:
 * [Semantic Designs C# Test Coverage Tool](http://www.semanticdesigns.com/Products/TestCoverage/CSharpTestCoverage.html)
 * [Software Verify .NET Coverage Validator](http://www.softwareverify.com/dotnet-coverage.php)
 * [Squish Coco](http://www.froglogic.com/squish/coco/)
-* [TestMatrix] (http://submain.com/products/testmatrix.aspx)
+* [TestMatrix](http://submain.com/products/testmatrix.aspx)
 * [Typemock Isolator Coverage](http://www.typemock.com/coverage)
 
 # Continuous Testing
