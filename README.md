@@ -39,7 +39,7 @@ Key:
 | [NMock](http://nmock.sourceforge.net/)
 | **[NSubstitute](http://nsubstitute.github.io/)**
 | [NUnit.Mocks](https://www.nuget.org/packages/NUnit.Mocks/) | Discontinued
-| [Rhino Mocks](https://meisinger2.wordpress.com/category/rhino-mocks/)
+| [Rhino Mocks](https://meisinger2.wordpress.com/category/rhino-mocks/) | Discontinued
 | [Typemock Isolator](http://www.typemock.com/isolator-product-page)
 
 # Acceptance Testing
