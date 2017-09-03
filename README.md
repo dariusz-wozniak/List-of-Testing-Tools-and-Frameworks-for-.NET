@@ -21,7 +21,7 @@ Key:
 | [FsUnit](http://fsprojects.github.io/FsUnit/) | Free and open source | F#
 | [Fuchu](https://github.com/mausch/Fuchu) | Free and open source
 | [MbUnit](https://code.google.com/p/mb-unit/) | Free and open source | Discontinued
-| [MSTest](https://github.com/Microsoft/testfx) | Free and open source | Also known as Microsoft Test Framework
+| [MSTest](https://github.com/Microsoft/testfx) | Free and open source | Also known as Microsoft Test Framework<br>Part of Visual Studio
 | **[NUnit](http://www.nunit.org/)** | Free and open source
 | [Unquote](http://www.swensensoftware.com/unquote) | Free and open source | F#
 | **[xUnit.net](http://xunit.github.io/)** | Free and open source
@@ -91,7 +91,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| [Microsoft Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx)
+| [Microsoft Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | Part of Visual Studio
 | [NUnitForms](http://nunitforms.sourceforge.net/)
 | [TestStack.White](https://github.com/TestStack/White)
 
@@ -131,7 +131,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Previously known as:<br>- [Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>- [Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>- [Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
+| **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Part of Visual Studio<br>Previously known as:<br>- [Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>- [Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>- [Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
 | [Randoop.NET](https://github.com/abb-iss/Randoop.NET)
 
 # Property-Based Testing
@@ -162,8 +162,11 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
+| [Continuous Testing for Visual Studio 2010](https://marketplace.visualstudio.com/items?itemName=HavardS.ContinuousTestingforVisualStudio2010) | Discontinued
 | [ContinuousTests](http://www.continuoustests.com/) | Formerly Mighty Moose
+| [dotCover](https://www.jetbrains.com/help/dotcover/Continuous_Testing.html)
 | [Giles](http://codereflection.github.io/Giles/)
+| [Live Unit Testing](https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/) | Part of Visual Studio
 | [NCrunch](http://www.ncrunch.net/)
 | [Parasoft dotTEST](https://www.parasoft.com/product/dottest/)
 | [Typemock Isolator Smart Runner](http://www.typemock.com/smart-runner)
