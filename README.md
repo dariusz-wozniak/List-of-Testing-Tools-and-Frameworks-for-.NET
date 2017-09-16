@@ -69,7 +69,7 @@ Key:
 | [SpecsFor](http://specsfor.com/)
 | [Specter](http://specter.sourceforge.net/)
 | [StoryQ](http://storyq.codeplex.com/) | Discontinued
-| [StoryTeller](http://codebetter.com/jeremymiller/2010/07/05/storyteller-one-point-oh/) | Discontinued
+| [StoryTeller](http://storyteller.github.io/)
 | [SubSpec](https://subspec.codeplex.com/)
 | [System.Spec](https://github.com/alexfalkowski/System.Spec)
 | [TickSpec](http://tickspec.codeplex.com/)
