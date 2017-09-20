@@ -18,10 +18,11 @@ Key:
 | Framework | Licensing | Comment |
 |-----------|-----------|---------|
 | [csUnit](http://www.csunit.org/) | Free | Discontinued
+| [Expecto](https://github.com/haf/Expecto) | Free and open source | F#
 | [FsUnit](http://fsprojects.github.io/FsUnit/) | Free and open source | F#
-| [Fuchu](https://github.com/mausch/Fuchu) | Free and open source
+| [Fuchu](https://github.com/mausch/Fuchu) | Free and open source | F# / C# / VB.NET
 | [MbUnit](https://code.google.com/p/mb-unit/) | Free and open source | Discontinued
-| [MSTest](https://github.com/Microsoft/testfx) | Free and open source | Also known as Microsoft Test Framework<br>Part of Visual Studio
+| [MSTest](https://github.com/Microsoft/testfx) | Free and open source | - Also known as Microsoft Test Framework<br>- Part of Visual Studio
 | **[NUnit](http://www.nunit.org/)** | Free and open source
 | [Unquote](http://www.swensensoftware.com/unquote) | Free and open source | F#
 | **[xUnit.net](http://xunit.github.io/)** | Free and open source
@@ -42,28 +43,23 @@ Key:
 | [Rhino Mocks](https://meisinger2.wordpress.com/category/rhino-mocks/) | Discontinued
 | [Typemock Isolator](http://www.typemock.com/isolator-product-page)
 
-# Acceptance Testing
-
-| Framework | Comment |
-|-----------|---------|
-| [Avignon](http://www.nolacom.com/avignon/)
-| [FitNesse](http://fitnesse.org/)
-| [Robot Framework](http://robotframework.org/)
-
-# Behavior-Driven Development & Specification by Example
+# Acceptance Testing \ Behavior-Driven Development \ Specification by Example
 
 | Framework | Comment |
 |-----------|---------|
 | [ApprovalTests](http://approvaltests.sourceforge.net/)
+| [Avignon](http://www.nolacom.com/avignon/)
 | [Concordion.NET](http://concordion.org/dotnet/)
 | [Cucumber](https://cucumber.io/)
 | [Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki) | Discontinued
+| [FitNesse](http://fitnesse.org/)
 | [Gauge](http://getgauge.io/)
 | [LightBDD](https://github.com/Suremaker/LightBDD)
 | **[Machine.Specifications](https://github.com/machine/machine.specifications)** | Also known as MSpec
 | [NaturalSpec](https://github.com/forki/NaturalSpec) | Discontinued
 | [NBehave](http://nbehave.org/)
 | [NSpec](http://nspec.org/)
+| [Robot Framework](http://robotframework.org/)
 | [Spec4Net](https://bitbucket.org/fthomsen/spec4net/src) | Discontinued
 | **[SpecFlow](http://www.specflow.org/)**
 | [SpecsFor](http://specsfor.com/)
@@ -131,14 +127,14 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Part of Visual Studio<br>Previously known as:<br>- [Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>- [Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>- [Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
+| **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Part of Visual Studio<br>Previously known as:<br>- [- Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>- [- Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>- [- Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
 | [Randoop.NET](https://github.com/abb-iss/Randoop.NET)
 
 # Property-Based Testing
 
 | Framework | Comment |
 |-----------|---------|
-| [FsCheck](https://fscheck.github.io/FsCheck/)
+| [FsCheck](https://fscheck.github.io/FsCheck/) | Port of [QuickCheck](https://hackage.haskell.org/package/QuickCheck)
 
 # Code Coverage
 
@@ -180,11 +176,26 @@ Key:
 | [Should Assertion Library](https://github.com/erichexter/Should) | Discontinued
 | [Shouldly](https://github.com/shouldly/shouldly)
 
+# [Test Data Builders](http://www.natpryce.com/articles/000714.html)
+
+| Framework | Comment |
+|-----------|---------|
+| [Any-.Net](https://github.com/andrewseward/Any-.Net) | Discontinued
+| **[AutoFixture](https://github.com/AutoFixture/AutoFixture)** |
+| [AutoPoco](http://autopoco.codeplex.com/) | Discontinued
+| [Bogus](https://github.com/bchavez/Bogus) |
+| [Fabricator](http://fabricator.codeplex.com/) | Discontinued
+| [Hydrator](http://hydrator.codeplex.com/) | Discontinued
+| [NBuilder](https://github.com/nbuilder/nbuilder) |
+| [TestData](https://github.com/kiandra-it/test-data) |
+| [TestDataFactory](https://github.com/titarenko/TestDataFactory) | Discontinued
+| [TestDataGenerator](https://github.com/etishor/TestDataGenerator) | Discontinued
+
 # Helper Libraries
 
 | Framework | Comment |
 |-----------|---------|
-| [AutoFixture](https://github.com/AutoFixture/AutoFixture) | Automating Test Fixture phase
+| [Faker.Net](https://github.com/slashdotdash/faker-cs) | Port of [Ruby Faker](https://github.com/stympy/faker)
 | [Fixie](http://fixie.github.io/) | Convention for tests
 
 # Visual Studio Add-Ins
@@ -192,10 +203,14 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [QuickUnit Unit Test Designer](https://visualstudiogallery.msdn.microsoft.com/dd88f120-27c6-444a-beeb-3cbdad4b620c)
-| [ReSharper Unit Test Runner](https://www.jetbrains.com/resharper/features/unit_testing.html)
+| **[ReSharper](https://www.jetbrains.com/resharper/features/unit_testing.html)**
+| [Unit Test Boilerplate Generator](https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator)
+| [Unit Test Generator](https://marketplace.visualstudio.com/items?itemName=VisualStudioALMRangers.UnitTestGenerator) | Discontinued
 | [TestDriven.Net](http://www.testdriven.net/)
+| [WiseTester - Overcome Unit Test Failures](https://marketplace.visualstudio.com/items?itemName=WiseTester.WiseTester-OvercomeUnitTestFailures)
 
 # Sources
 
-* [Wikipedia: List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
 * [Osherove: Tools And Frameworks for Unit Testing in .NET for 2013](http://osherove.com/blog/2013/3/16/tools-and-frameworks-for-unit-testing-in-net-and-java.html)
+* [Stack Overflow: Is there any framework for .NET to populate test data?](https://stackoverflow.com/questions/1610212/)is-there-any-framework-for-net-to-populate-test-data
+* [Wikipedia: List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
