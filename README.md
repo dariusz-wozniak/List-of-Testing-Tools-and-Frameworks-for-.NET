@@ -127,7 +127,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Part of Visual Studio<br>Previously known as:<br>[- Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>[- Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>[- Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
+| **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Part of Visual Studio<br>Previously known as:<br>- [Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>- [Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>- [Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
 | [Randoop.NET](https://github.com/abb-iss/Randoop.NET)
 
 # Property-Based Testing
@@ -212,5 +212,5 @@ Key:
 # Sources
 
 * [Osherove: Tools And Frameworks for Unit Testing in .NET for 2013](http://osherove.com/blog/2013/3/16/tools-and-frameworks-for-unit-testing-in-net-and-java.html)
-* [Stack Overflow: Is there any framework for .NET to populate test data?](https://stackoverflow.com/questions/1610212/)is-there-any-framework-for-net-to-populate-test-data
+* [Stack Overflow: Is there any framework for .NET to populate test data?](https://stackoverflow.com/questions/1610212/is-there-any-framework-for-net-to-populate-test-data)
 * [Wikipedia: List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
