@@ -17,7 +17,7 @@ Key:
 
 | Framework | Licensing | Comment |
 |-----------|-----------|---------|
-| [csUnit](http://www.csunit.org/) | Free | Discontinued
+| [csUnit](http://www.csunit.org/) | Free and open source | Discontinued
 | [Expecto](https://github.com/haf/Expecto) | Free and open source | F#
 | [FsUnit](http://fsprojects.github.io/FsUnit/) | Free and open source | F#
 | [Fuchu](https://github.com/mausch/Fuchu) | Free and open source | F# / C# / VB.NET
