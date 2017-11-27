@@ -49,6 +49,7 @@ Key:
 |-----------|---------|
 | [ApprovalTests](http://approvaltests.sourceforge.net/)
 | [Avignon](http://www.nolacom.com/avignon/)
+| [BDDfy](http://bddfy.teststack.net/)
 | [Concordion.NET](http://concordion.org/dotnet/)
 | [Cucumber](https://cucumber.io/)
 | [Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki) | Discontinued
@@ -75,13 +76,14 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| [Canopy](http://lefthandedgoat.github.io/canopy/)
+| [Canopy](http://lefthandedgoat.github.io/canopy/) | F#
 | [Coypu](https://github.com/featurist/coypu)
-| [FluentAutomation](http://fluent.stirno.com/)
-| [Ivonna](http://ivonna.biz/)
+| [FluentAutomation](https://github.com/stirno/FluentAutomation) | Discontinued
+| [Ivonna](http://ivonna.biz/) | Discontinued
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
 | [Selenium](http://www.seleniumhq.org/)
-| [WatiN](http://watin.org/)
+| [TestStack.Seleno](http://seleno.teststack.net/)
+| [WatiN](https://www.nuget.org/packages/WatiN/) | Discontinued
 
 # User Interface Testing
 
@@ -187,16 +189,20 @@ Key:
 | [Fabricator](http://fabricator.codeplex.com/) | Discontinued
 | [Hydrator](http://hydrator.codeplex.com/) | Discontinued
 | [NBuilder](https://github.com/nbuilder/nbuilder) |
+| [NTestDataBuilder](https://www.nuget.org/packages/NTestDataBuilder/) | Discontinued, now TestStack.Dossier 
 | [TestData](https://github.com/kiandra-it/test-data) |
 | [TestDataFactory](https://github.com/titarenko/TestDataFactory) | Discontinued
 | [TestDataGenerator](https://github.com/etishor/TestDataGenerator) | Discontinued
+| [TestStack.Dossier](http://dossier.teststack.net/)
 
 # Helper Libraries
 
 | Framework | Comment |
 |-----------|---------|
+| [ConventionTests](http://conventiontests.teststack.net/) | Library that makes it easy to build validation rules for convention validation tests
 | [Faker.Net](https://github.com/slashdotdash/faker-cs) | Port of [Ruby Faker](https://github.com/stympy/faker)
 | [Fixie](http://fixie.github.io/) | Convention for tests
+| [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllees
 
 # Visual Studio Add-Ins
 
