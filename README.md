@@ -69,7 +69,7 @@ Key:
 | [StoryTeller](http://storyteller.github.io/)
 | [SubSpec](https://subspec.codeplex.com/)
 | [System.Spec](https://github.com/alexfalkowski/System.Spec)
-| [TickSpec](http://tickspec.codeplex.com/)
+| [TickSpec](https://github.com/fsprojects/TickSpec)
 | [xBehave.net](http://xbehave.github.io/)
 
 # Web Application Testing
