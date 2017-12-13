@@ -59,6 +59,7 @@ Key:
 | **[Machine.Specifications](https://github.com/machine/machine.specifications)** | Also known as MSpec
 | [NaturalSpec](https://github.com/forki/NaturalSpec) | Discontinued
 | [NBehave](http://nbehave.org/)
+| [NDecision](https://github.com/bradygaster/NDecision) | Discontinued
 | [NSpec](http://nspec.org/)
 | [Robot Framework](http://robotframework.org/)
 | [Spec4Net](https://bitbucket.org/fthomsen/spec4net/src) | Discontinued
