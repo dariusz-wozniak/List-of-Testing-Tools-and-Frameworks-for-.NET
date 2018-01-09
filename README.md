@@ -18,12 +18,14 @@ Key:
 | Framework | Licensing | Comment |
 |-----------|-----------|---------|
 | [csUnit](http://www.csunit.org/) | Free and open source | Discontinued
+| [EMTF](https://archive.is/rptLh#selection-360.0-360.7) | Free and open source | - Known as Embeddable Micro Test Framework<Br />- Discontinued
 | [Expecto](https://github.com/haf/Expecto) | Free and open source | F#
 | [FsUnit](http://fsprojects.github.io/FsUnit/) | Free and open source | F#
 | [Fuchu](https://github.com/mausch/Fuchu) | Free and open source | F# / C# / VB.NET
 | [MbUnit](https://code.google.com/p/mb-unit/) | Free and open source | Discontinued
 | [MSTest](https://github.com/Microsoft/testfx) | Free and open source | - Also known as Microsoft Test Framework<br>- Part of Visual Studio
 | **[NUnit](http://www.nunit.org/)** | Free and open source
+| [Roaster](https://roaster.codeplex.com/) | Free and open source | Discontinued
 | [Unquote](http://www.swensensoftware.com/unquote) | Free and open source | F#
 | **[xUnit.net](http://xunit.github.io/)** | Free and open source
 
@@ -77,6 +79,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
+| [Atata](https://github.com/atata-framework/atata)
 | [Canopy](http://lefthandedgoat.github.io/canopy/) | F#
 | [Coypu](https://github.com/featurist/coypu)
 | [FluentAutomation](https://github.com/stirno/FluentAutomation) | Discontinued
@@ -101,6 +104,7 @@ Key:
 |-----------|---------|
 | [DbUnit.NET](http://dbunit-net.sourceforge.net/) | Discontinued
 | [NDbUnit](https://github.com/NDbUnit/NDbUnit)
+| [Respawn](https://github.com/jbogard/Respawn) | A small utility to help in resetting test databases to a clean state
 
 # Concurrent Testing
 
@@ -191,7 +195,7 @@ Key:
 | [Fabricator](http://fabricator.codeplex.com/) | Discontinued
 | [Hydrator](http://hydrator.codeplex.com/) | Discontinued
 | [NBuilder](https://github.com/nbuilder/nbuilder) |
-| [NTestDataBuilder](https://www.nuget.org/packages/NTestDataBuilder/) | Discontinued, now TestStack.Dossier 
+| [NTestDataBuilder](https://www.nuget.org/packages/NTestDataBuilder/) | - Now TestStack.Dossier<br />- Discontinued
 | [TestData](https://github.com/kiandra-it/test-data) |
 | [TestDataFactory](https://github.com/titarenko/TestDataFactory) | Discontinued
 | [TestDataGenerator](https://github.com/etishor/TestDataGenerator) | Discontinued
@@ -206,15 +210,26 @@ Key:
 | [Fixie](http://fixie.github.io/) | Convention for tests
 | [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllees
 
+# Miscellaneous Tools
+
+| Framework | Comment |
+|-----------|---------|
+| [Gallio Automation Platform](https://code.google.com/archive/p/mb-unit/) | Discontinued
+| [ErrorUnit](http://errorunit.com/) | Debug C# application by automatically creating C# Unit Tests in Visual Studio that recreate the situation leading up to the error
+| [NBi](http://www.nbi.io/) | Framework to test Business Intelligence
+| [Quality Gate One Studio](http://www.qgonestudio.com/site/) | Combinatorial and Model-Based Testing 
+
 # Visual Studio Add-Ins
 
 | Framework | Comment |
 |-----------|---------|
+| [nMate](https://code.google.com/archive/p/nmate/) | - Unit test code generation<br />- Discontinued
 | [QuickUnit Unit Test Designer](https://visualstudiogallery.msdn.microsoft.com/dd88f120-27c6-444a-beeb-3cbdad4b620c)
 | **[ReSharper](https://www.jetbrains.com/resharper/features/unit_testing.html)**
 | [Unit Test Boilerplate Generator](https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator)
 | [Unit Test Generator](https://marketplace.visualstudio.com/items?itemName=VisualStudioALMRangers.UnitTestGenerator) | Discontinued
 | [TestDriven.Net](http://www.testdriven.net/)
+| [Visual T#](https://web.archive.org/web/20110227025822/http://www.prettyobjects.com/en/Products/TSharp) | Discontinued
 | [WiseTester - Overcome Unit Test Failures](https://marketplace.visualstudio.com/items?itemName=WiseTester.WiseTester-OvercomeUnitTestFailures)
 
 # Sources
