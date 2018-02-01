@@ -218,6 +218,7 @@ Key:
 | [ErrorUnit](http://errorunit.com/) | Debug C# application by automatically creating C# Unit Tests in Visual Studio that recreate the situation leading up to the error
 | [NBi](http://www.nbi.io/) | Framework to test Business Intelligence
 | [Quality Gate One Studio](http://www.qgonestudio.com/site/) | Combinatorial and Model-Based Testing 
+| [KREM](https://github.com/Bitvis/krem) | Automation and test framework. Integration, regression, spec testing. Well suitable for embedded. Written in Python, but support external scripts, etc.
 
 # Visual Studio Add-Ins
 
