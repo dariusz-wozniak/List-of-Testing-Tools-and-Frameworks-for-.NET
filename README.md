@@ -57,6 +57,7 @@ Key:
 | [Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki) | Discontinued
 | [FitNesse](http://fitnesse.org/)
 | [Gauge](http://getgauge.io/)
+| [HonestCode](http://honestcode.io/)
 | [LightBDD](https://github.com/Suremaker/LightBDD)
 | **[Machine.Specifications](https://github.com/machine/machine.specifications)** | Also known as MSpec
 | [NaturalSpec](https://github.com/forki/NaturalSpec) | Discontinued
