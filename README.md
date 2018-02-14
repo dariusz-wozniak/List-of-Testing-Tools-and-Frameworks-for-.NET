@@ -185,15 +185,16 @@ Key:
 | [Should Assertion Library](https://github.com/erichexter/Should) | Discontinued
 | [Shouldly](https://github.com/shouldly/shouldly)
 
-# [Test Data Builders](http://www.natpryce.com/articles/000714.html)
+# [Test Data Builders](http://www.natpryce.com/articles/000714.html) & Dummy Data Generators
 
 | Framework | Comment |
 |-----------|---------|
 | [Any-.Net](https://github.com/andrewseward/Any-.Net) | Discontinued
 | **[AutoFixture](https://github.com/AutoFixture/AutoFixture)** |
 | [AutoPoco](http://autopoco.codeplex.com/) | Discontinued
-| [Bogus](https://github.com/bchavez/Bogus) |
+| **[Bogus]**(https://github.com/bchavez/Bogus) |
 | [Fabricator](http://fabricator.codeplex.com/) | Discontinued
+| [Faker.Net](https://github.com/slashdotdash/faker-cs) | 
 | [Hydrator](http://hydrator.codeplex.com/) | Discontinued
 | [NBuilder](https://github.com/nbuilder/nbuilder) |
 | [NTestDataBuilder](https://www.nuget.org/packages/NTestDataBuilder/) | - Now TestStack.Dossier<br />- Discontinued
@@ -207,7 +208,6 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [ConventionTests](http://conventiontests.teststack.net/) | Library that makes it easy to build validation rules for convention validation tests
-| [Faker.Net](https://github.com/slashdotdash/faker-cs) | Port of [Ruby Faker](https://github.com/stympy/faker)
 | [Fixie](http://fixie.github.io/) | Convention for tests
 | [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllees
 
