@@ -192,7 +192,7 @@ Key:
 | [Any-.Net](https://github.com/andrewseward/Any-.Net) | Discontinued
 | **[AutoFixture](https://github.com/AutoFixture/AutoFixture)** |
 | [AutoPoco](http://autopoco.codeplex.com/) | Discontinued
-| **[Bogus]**(https://github.com/bchavez/Bogus) |
+| **[Bogus](https://github.com/bchavez/Bogus)** |
 | [Fabricator](http://fabricator.codeplex.com/) | Discontinued
 | [Faker.Net](https://github.com/slashdotdash/faker-cs) | 
 | [Hydrator](http://hydrator.codeplex.com/) | Discontinued
