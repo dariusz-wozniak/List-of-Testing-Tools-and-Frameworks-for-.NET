@@ -25,6 +25,7 @@ Key:
 | [MbUnit](https://code.google.com/p/mb-unit/) | Free and open source | Discontinued
 | [MSTest](https://github.com/Microsoft/testfx) | Free and open source | - Also known as Microsoft Test Framework<br>- Part of Visual Studio
 | **[NUnit](http://www.nunit.org/)** | Free and open source
+| [NUnitLite](https://github.com/nunit/nunitlite) | Free and open source | Discontinued
 | [Roaster](https://roaster.codeplex.com/) | Free and open source | Discontinued
 | [Unquote](http://www.swensensoftware.com/unquote) | Free and open source | F#
 | **[xUnit.net](http://xunit.github.io/)** | Free and open source
