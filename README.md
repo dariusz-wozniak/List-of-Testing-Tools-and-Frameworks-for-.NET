@@ -93,6 +93,12 @@ Key:
 | [TestStack.Seleno](http://seleno.teststack.net/)
 | [WatiN](https://www.nuget.org/packages/WatiN/) | Discontinued
 
+# Web Services
+
+| Framework | Comment |
+|-----------|---------|
+| [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
+
 # User Interface Testing
 
 | Framework | Comment |
