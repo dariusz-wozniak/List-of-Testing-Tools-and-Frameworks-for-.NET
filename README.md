@@ -93,10 +93,11 @@ Key:
 | [TestStack.Seleno](http://seleno.teststack.net/)
 | [WatiN](https://www.nuget.org/packages/WatiN/) | Discontinued
 
-# Web Services
+# Web Testing
 
 | Framework | Comment |
 |-----------|---------|
+| [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext)
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
 
 # User Interface Testing
