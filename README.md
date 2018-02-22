@@ -85,6 +85,7 @@ Key:
 | [Canopy](http://lefthandedgoat.github.io/canopy/) | F#
 | [Coypu](https://github.com/featurist/coypu)
 | [FluentAutomation](https://github.com/stirno/FluentAutomation) | Discontinued
+| [IeUnit](https://code.google.com/archive/p/ieunit/) | Discontinued
 | [Ivonna](http://ivonna.biz/) | Discontinued
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
 | [Selenium](http://www.seleniumhq.org/)
