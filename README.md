@@ -10,6 +10,9 @@ This is a list of Automated Testing Frameworks for .NET related to methodologies
 
 Please feel free to suggest changes and/or new tools/frameworks.
 
+Key:
+* **Bold** — Most Popular
+
 # Table of Contents
 
 - [Unit Testing Frameworks](#unit-testing-frameworks)
@@ -32,9 +35,6 @@ Please feel free to suggest changes and/or new tools/frameworks.
 - [Miscellaneous Tools](#miscellaneous-tools)
 - [Visual Studio Add-Ins](#visual-studio-add-ins)
 - [Sources](#sources)
-
-Key:
-* **Bold** — Most Popular
 
 # Unit Testing Frameworks
 
