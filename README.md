@@ -6,7 +6,7 @@ This is a list of Automated Testing Frameworks for .NET related to methodologies
 - Specification by Example (SBE)
 - Acceptance Test-Driven Development (ATDD)
 - Property-Based Testing (PBT)
-- Unit / Integration / Acceptance / Specification Tests
+- Unit \ Integration \ Acceptance \ Specification \ etc. Tests
 
 Please feel free to suggest changes and/or new tools/frameworks.
 
