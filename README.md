@@ -182,6 +182,7 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [AxoCover](https://github.com/axodox/AxoTools) | Bases on OpenCover
+| [Coverlet](https://github.com/tonerdo/coverlet)
 | [dotCover](https://www.jetbrains.com/dotcover)
 | [NCover](https://www.ncover.com/)
 | [NCrunch](http://www.ncrunch.net/)
