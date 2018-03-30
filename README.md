@@ -110,6 +110,7 @@ Key:
 | [FluentAutomation](https://github.com/stirno/FluentAutomation) | Discontinued
 | [IeUnit](https://code.google.com/archive/p/ieunit/) | Discontinued
 | [Ivonna](http://ivonna.biz/) | Discontinued
+| [Netling](https://github.com/hallatore/Netling) | Load tests for web
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
 | [Selenium](http://www.seleniumhq.org/)
 | [Test.Automation](https://github.com/ObjectivityLtd/Test.Automation)
@@ -120,8 +121,11 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext)
+| [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext) |
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
+| [MockHttp](https://github.com/richardszalay/mockhttp) |
+| [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) |
+| [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
 
 # User Interface Testing
 
@@ -228,6 +232,7 @@ Key:
 | **[Bogus](https://github.com/bchavez/Bogus)** |
 | [Fabricator](http://fabricator.codeplex.com/) | Discontinued
 | [Faker.Net](https://github.com/slashdotdash/faker-cs) | 
+| [GenFu](https://github.com/MisterJames/GenFu) |
 | [Hydrator](http://hydrator.codeplex.com/) | Discontinued
 | [NBuilder](https://github.com/nbuilder/nbuilder) |
 | [NTestDataBuilder](https://www.nuget.org/packages/NTestDataBuilder/) | - Now TestStack.Dossier<br />- Discontinued
