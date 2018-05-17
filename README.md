@@ -114,6 +114,7 @@ Key:
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
 | [Selenium](http://www.seleniumhq.org/)
 | [Test.Automation](https://github.com/ObjectivityLtd/Test.Automation)
+| [TestLeft](https://smartbear.com/product/testleft/overview/)
 | [TestStack.Seleno](http://seleno.teststack.net/)
 | [WatiN](https://www.nuget.org/packages/WatiN/) | Discontinued
 
