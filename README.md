@@ -164,6 +164,7 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [CREAM](http://galera.ii.pw.edu.pl/~adr/CREAM/) | Also known as CREAtor of Mutants
+| [Fettle](https://github.com/ComparetheMarket/fettle)
 | [Nester](http://nester.sourceforge.net/)
 | [NinjaTurtles](https://ninjaturtles.codeplex.com/)
 | [PIT](http://pitest.org/)
