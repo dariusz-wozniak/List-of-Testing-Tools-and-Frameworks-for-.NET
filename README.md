@@ -127,6 +127,7 @@ Key:
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
 | [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) |
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
+| [Flurl](https://github.com/tmenier/Flurl) |
 
 # User Interface Testing
 
