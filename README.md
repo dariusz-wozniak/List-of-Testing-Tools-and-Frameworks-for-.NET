@@ -149,6 +149,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
+| [FluentAssertions.Extensions](https://github.com/Kittyfisto/FluentAssertions.Extensions)
 | [Microsoft CHESS](http://research.microsoft.com/en-us/projects/chess/)
 | [ThreadTester](http://osherove.com/blog/2007/6/22/multi-threaded-unit-tests-with-osherovethreadtester.html)
 | [Typemock Racer](http://www.typemock.com/typemock-racer-product-old) | Discontinued
