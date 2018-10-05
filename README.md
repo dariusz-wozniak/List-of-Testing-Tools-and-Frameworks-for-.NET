@@ -112,6 +112,7 @@ Key:
 | [Ivonna](http://ivonna.biz/) | Discontinued
 | [Netling](https://github.com/hallatore/Netling) | Load tests for web
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
+| [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
 | [Selenium](http://www.seleniumhq.org/)
 | [Test.Automation](https://github.com/ObjectivityLtd/Test.Automation)
 | [TestLeft](https://smartbear.com/product/testleft/overview/)
