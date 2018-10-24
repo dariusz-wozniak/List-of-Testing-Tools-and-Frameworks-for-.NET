@@ -252,7 +252,8 @@ Key:
 |-----------|---------|
 | [ConventionTests](http://conventiontests.teststack.net/) | Library that makes it easy to build validation rules for convention validation tests
 | [Fixie](http://fixie.github.io/) | Convention for tests
-| [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllees
+| [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllers
+| [SparkyTestHelpers](https://github.com/BrianSchroer/sparky-test-helpers) | Unit test helpers for config files, ASP.NET MVC, and Moq among others
 
 # Miscellaneous Tools
 
