@@ -223,6 +223,7 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [Fluent Assertions](http://www.fluentassertions.com/)
+| [NFluent](http://www.n-fluent.net/)
 | [SharpTestEx](http://sharptestex.codeplex.com/) | Discontinued
 | [Should Assertion Library](https://github.com/erichexter/Should) | Discontinued
 | [Shouldly](https://github.com/shouldly/shouldly)
