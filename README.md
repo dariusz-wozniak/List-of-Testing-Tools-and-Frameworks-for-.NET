@@ -6,7 +6,7 @@ This is a list of Automated Testing Frameworks for .NET related to methodologies
 - Specification by Example (SBE)
 - Acceptance Test-Driven Development (ATDD)
 - Property-Based Testing (PBT)
-- Unit \ Integration \ Acceptance \ Specification \ etc. Tests
+- Unit / Integration / Acceptance / Specification / etc. Tests
 
 Please feel free to suggest changes and/or new tools/frameworks.
 
@@ -17,7 +17,7 @@ Key:
 
 - [Unit Testing Frameworks](#unit-testing-frameworks)
 - [Isolation Frameworks](#isolation-frameworks)
-- [Acceptance Testing \ Behavior-Driven Development \ Specification by Example](#acceptance-testing-\-behavior-driven-development-\-specification-by-example)
+- [Acceptance Testing / Behavior-Driven Development / Specification by Example](#acceptance-testing-/-behavior-driven-development-/-specification-by-example)
 - [Web Application Testing](#web-application-testing)
 - [Web Testing](#web-testing)
 - [User Interface Testing](#user-interface-testing)
@@ -69,7 +69,7 @@ Key:
 | [Rhino Mocks](https://meisinger2.wordpress.com/category/rhino-mocks/) | Discontinued
 | [Typemock Isolator](http://www.typemock.com/isolator-product-page)
 
-# Acceptance Testing \ Behavior-Driven Development \ Specification by Example
+# Acceptance Testing / Behavior-Driven Development / Specification by Example
 
 | Framework | Comment |
 |-----------|---------|
