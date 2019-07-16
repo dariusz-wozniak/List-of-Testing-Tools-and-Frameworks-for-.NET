@@ -255,6 +255,7 @@ Key:
 | [Fixie](http://fixie.github.io/) | Convention for tests
 | [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllers
 | [SparkyTestHelpers](https://github.com/BrianSchroer/sparky-test-helpers) | Unit test helpers for config files, ASP.NET MVC, and Moq among others
+| [XMLUnit](https://www.xmlunit.org/) | Unit testing XML
 
 # Miscellaneous Tools
 
