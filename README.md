@@ -251,6 +251,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
+| [AutoMoq](https://github.com/darrencauthon/AutoMoq) | Auto mocking provider for Moq
 | [ConventionTests](http://conventiontests.teststack.net/) | Library that makes it easy to build validation rules for convention validation tests
 | [Fixie](http://fixie.github.io/) | Convention for tests
 | [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllers
