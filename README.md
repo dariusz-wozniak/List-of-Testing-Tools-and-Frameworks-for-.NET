@@ -130,13 +130,16 @@ Key:
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
 | [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) |
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
+| [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 
 # User Interface Testing
 
 | Framework | Comment |
 |-----------|---------|
+| [FlaUI](https://github.com/Roemer/FlaUI) |
 | [Microsoft Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | Part of Visual Studio
-| [NUnitForms](http://nunitforms.sourceforge.net/)
+| [NUnitForms](http://nunitforms.sourceforge.net/) | Discontinued
+| [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 | [TestStack.White](https://github.com/TestStack/White)
 
 # Database Testing
