@@ -270,6 +270,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
+| [AccidentalFish.FSharp.Validation](https://github.com/JamesRandall/AccidentalFish.FSharp.Validation) | Simple validator DSL / library for F#
 | [Gallio Automation Platform](https://code.google.com/archive/p/mb-unit/) | Discontinued
 | [ErrorUnit](http://errorunit.com/) | Debug C# application by automatically creating C# Unit Tests in Visual Studio that recreate the situation leading up to the error
 | [KREM](https://github.com/Bitvis/krem) | Automation and test framework. Integration, regression, spec testing. Well suitable for embedded. Written in Python, but support external scripts, etc.
