@@ -11,7 +11,7 @@ This is a list of Automated Testing Frameworks for .NET related to methodologies
 Please feel free to suggest changes and/or new tools/frameworks.
 
 Key:
-* **Bold** — Most Popular
+* **Bold** — Most Popular / Recommended
 
 # Table of Contents
 
@@ -105,7 +105,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| [Atata](https://github.com/atata-framework/atata)
+| **[Atata](https://github.com/atata-framework/atata)**
 | [Canopy](http://lefthandedgoat.github.io/canopy/) | F#
 | [Coypu](https://github.com/featurist/coypu)
 | [FluentAutomation](https://github.com/stirno/FluentAutomation) | Discontinued
@@ -164,7 +164,7 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [.NET Memory Profiler](http://memprofiler.com/) | Also known as MemProfiler
-| [dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)
+| **[dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)**
 
 # Mutation Testing
 
@@ -188,7 +188,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| [FsCheck](https://fscheck.github.io/FsCheck/) | Port of [QuickCheck](https://hackage.haskell.org/package/QuickCheck)
+| **[FsCheck](https://fscheck.github.io/FsCheck/)** | Port of [QuickCheck](https://hackage.haskell.org/package/QuickCheck)
 
 # Approval Testing
 
@@ -203,7 +203,7 @@ Key:
 |-----------|---------|
 | [AxoCover](https://github.com/axodox/AxoTools) | Bases on OpenCover
 | [Coverlet](https://github.com/tonerdo/coverlet)
-| [dotCover](https://www.jetbrains.com/dotcover)
+| **[dotCover](https://www.jetbrains.com/dotcover)**
 | [NCover](https://www.ncover.com/)
 | [NCrunch](http://www.ncrunch.net/)
 | [NDepend](http://www.ndepend.com/)
@@ -222,9 +222,9 @@ Key:
 |-----------|---------|
 | [Continuous Testing for Visual Studio 2010](https://marketplace.visualstudio.com/items?itemName=HavardS.ContinuousTestingforVisualStudio2010) | Discontinued
 | [ContinuousTests](http://www.continuoustests.com/) | Formerly Mighty Moose
-| [dotCover](https://www.jetbrains.com/help/dotcover/Continuous_Testing.html)
+| **[dotCover](https://www.jetbrains.com/help/dotcover/Continuous_Testing.html)**
 | [Giles](http://codereflection.github.io/Giles/)
-| [Live Unit Testing](https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/) | Part of Visual Studio
+| **[Live Unit Testing](https://blogs.msdn.microsoft.com/visualstudio/2017/03/09/live-unit-testing-in-visual-studio-2017-enterprise/)** | Part of Visual Studio
 | [NCrunch](http://www.ncrunch.net/)
 | [Parasoft dotTEST](https://www.parasoft.com/product/dottest/)
 | [Typemock Isolator Smart Runner](http://www.typemock.com/smart-runner)
@@ -233,7 +233,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| [Fluent Assertions](http://www.fluentassertions.com/)
+| **[Fluent Assertions](http://www.fluentassertions.com/)**
 | [NFluent](http://www.n-fluent.net/)
 | [SharpTestEx](http://sharptestex.codeplex.com/) | Discontinued
 | [Should Assertion Library](https://github.com/erichexter/Should) | Discontinued
