@@ -115,6 +115,7 @@ Key:
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
 | [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
 | [Selenium](http://www.seleniumhq.org/)
+| [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 | [Test.Automation](https://github.com/ObjectivityLtd/Test.Automation)
 | [TestLeft](https://smartbear.com/product/testleft/overview/)
 | [TestStack.Seleno](http://seleno.teststack.net/)
@@ -130,7 +131,6 @@ Key:
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
 | [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) |
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
-| [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 
 # User Interface Testing
 
