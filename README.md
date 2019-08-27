@@ -27,6 +27,7 @@ Key:
 - [Mutation Testing](#mutation-testing)
 - [Automated Exploratory Testing](#automated-exploratory-testing)
 - [Property-Based Testing](#property-based-testing)
+- [Approval Testing](#approval-testing)
 - [Code Coverage](#code-coverage)
 - [Continuous Testing](#continuous-testing)
 - [Assertion Frameworks](#assertion-frameworks)
@@ -185,6 +186,13 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [FsCheck](https://fscheck.github.io/FsCheck/) | Port of [QuickCheck](https://hackage.haskell.org/package/QuickCheck)
+
+# Approval Testing
+
+| Framework | Comment |
+|-----------|---------|
+| [ApprovalTest](https://github.com/approvals/ApprovalTests.Net) | 
+| [Snapshooter](https://swisslife-oss.github.io/snapshooter/) | 
 
 # Code Coverage
 
