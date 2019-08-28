@@ -129,7 +129,7 @@ Key:
 | [Flurl](https://github.com/tmenier/Flurl) |
 | [MockHttp](https://github.com/richardszalay/mockhttp) |
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
-| [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) |
+| [My Tested ASP.NET](https://mytestedasp.net/) |
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
 
 # User Interface Testing
