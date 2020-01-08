@@ -22,6 +22,7 @@ Key:
 - [Web Testing](#web-testing)
 - [User Interface Testing](#user-interface-testing)
 - [Database Testing](#database-testing)
+- [Cloud Testing](#cloud-testing)
 - [Concurrent Testing](#concurrent-testing)
 - [Memory Testing](#memory-testing)
 - [Mutation Testing](#mutation-testing)
@@ -149,6 +150,12 @@ Key:
 | [DbUnit.NET](http://dbunit-net.sourceforge.net/) | Discontinued
 | [NDbUnit](https://github.com/NDbUnit/NDbUnit)
 | [Respawn](https://github.com/jbogard/Respawn) | A small utility to help in resetting test databases to a clean state
+
+# Cloud Testing
+
+| Framework | Comment |
+|-----------|---------|
+| [Azure Functions Test Fixture](https://github.com/jeffhollan/functions-test-helper)
 
 # Concurrent Testing
 
