@@ -100,8 +100,8 @@ Key:
 | [SubSpec](https://subspec.codeplex.com/)
 | [System.Spec](https://github.com/alexfalkowski/System.Spec)
 | [TickSpec](https://github.com/fsprojects/TickSpec)
-| [xBehave.net](http://xbehave.github.io/)
 | [Verify](https://github.com/SimonCropp/Verify)
+| [xBehave.net](http://xbehave.github.io/)
 
 # Web Application Testing
 
