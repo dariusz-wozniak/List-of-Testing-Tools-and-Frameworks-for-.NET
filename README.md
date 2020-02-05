@@ -101,6 +101,7 @@ Key:
 | [System.Spec](https://github.com/alexfalkowski/System.Spec)
 | [TickSpec](https://github.com/fsprojects/TickSpec)
 | [xBehave.net](http://xbehave.github.io/)
+| [Verify](https://github.com/SimonCropp/Verify)
 
 # Web Application Testing
 
@@ -204,6 +205,7 @@ Key:
 |-----------|---------|
 | [ApprovalTest](https://github.com/approvals/ApprovalTests.Net) | 
 | [Snapshooter](https://swisslife-oss.github.io/snapshooter/) | 
+| [Verify](https://github.com/SimonCropp/Verify) | 
 
 # Code Coverage
 
