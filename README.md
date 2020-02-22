@@ -185,6 +185,7 @@ Key:
 | [NinjaTurtles](https://ninjaturtles.codeplex.com/)
 | [PIT](http://pitest.org/)
 | [VisualMutator](http://visualmutator.github.io/web/)
+| [Stryker](https://stryker-mutator.io/)
 
 # Automated Exploratory Testing
 
