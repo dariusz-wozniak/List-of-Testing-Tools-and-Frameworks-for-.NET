@@ -184,8 +184,8 @@ Key:
 | [Nester](http://nester.sourceforge.net/)
 | [NinjaTurtles](https://ninjaturtles.codeplex.com/)
 | [PIT](http://pitest.org/)
-| [VisualMutator](http://visualmutator.github.io/web/)
 | [Stryker](https://stryker-mutator.io/)
+| [VisualMutator](http://visualmutator.github.io/web/)
 
 # Automated Exploratory Testing
 
