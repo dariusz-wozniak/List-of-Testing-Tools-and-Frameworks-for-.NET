@@ -133,6 +133,7 @@ Key:
 | [MockHttp](https://github.com/richardszalay/mockhttp) |
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
 | [My Tested ASP.NET](https://mytestedasp.net/) |
+| [PactNet](https://github.com/pact-foundation/pact-net) |  
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
 
 # User Interface Testing
