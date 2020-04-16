@@ -257,8 +257,9 @@ Key:
 |-----------|---------|
 | [Any-.Net](https://github.com/andrewseward/Any-.Net) | Discontinued
 | **[AutoFixture](https://github.com/AutoFixture/AutoFixture)** |
-| [AutoPoco](http://autopoco.codeplex.com/) | Discontinued
+| [AutoPoco](http://autopoco.codeplex.com/) | Discontinued|
 | **[Bogus](https://github.com/bchavez/Bogus)** |
+| [AutoBogus](https://github.com/nickdodd79/AutoBogus)
 | [Fabricator](http://fabricator.codeplex.com/) | Discontinued
 | [Faker.Net](https://github.com/slashdotdash/faker-cs) | 
 | [GenFu](https://github.com/MisterJames/GenFu) |
