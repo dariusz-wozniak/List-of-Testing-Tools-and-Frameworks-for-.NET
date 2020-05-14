@@ -85,6 +85,7 @@ Key:
 | [Gauge](http://getgauge.io/)
 | [HonestCode](http://honestcode.io/)
 | [LightBDD](https://github.com/Suremaker/LightBDD)
+| [LoFuUnit](https://github.com/hlaueriksson/LoFuUnit)
 | **[Machine.Specifications](https://github.com/machine/machine.specifications)** | Also known as MSpec
 | [NaturalSpec](https://github.com/forki/NaturalSpec) | Discontinued
 | [NBehave](http://nbehave.org/)
