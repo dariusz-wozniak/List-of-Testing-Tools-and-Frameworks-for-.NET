@@ -17,7 +17,7 @@ Key:
 
 - [Unit Testing Frameworks](#unit-testing-frameworks)
 - [Isolation Frameworks](#isolation-frameworks)
-- [Acceptance Testing / Behavior-Driven Development / Specification by Example](#acceptance-testing-/-behavior-driven-development-/-specification-by-example)
+- [Acceptance Testing / Behavior-Driven Development / Specification by Example](#acceptance-testing--behavior-driven-development--specification-by-example)
 - [Web Application Testing](#web-application-testing)
 - [Web Testing](#web-testing)
 - [User Interface Testing](#user-interface-testing)
