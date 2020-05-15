@@ -17,7 +17,7 @@ Key:
 
 - [Unit Testing Frameworks](#unit-testing-frameworks)
 - [Isolation Frameworks](#isolation-frameworks)
-- [Acceptance Testing / Behavior-Driven Development / Specification by Example](#acceptance-testing-/-behavior-driven-development-/-specification-by-example)
+- [Acceptance Testing / Behavior-Driven Development / Specification by Example](#acceptance-testing--behavior-driven-development--specification-by-example)
 - [Web Application Testing](#web-application-testing)
 - [Web Testing](#web-testing)
 - [User Interface Testing](#user-interface-testing)
@@ -85,6 +85,7 @@ Key:
 | [Gauge](http://getgauge.io/)
 | [HonestCode](http://honestcode.io/)
 | [LightBDD](https://github.com/Suremaker/LightBDD)
+| [LoFuUnit](https://github.com/hlaueriksson/LoFuUnit)
 | **[Machine.Specifications](https://github.com/machine/machine.specifications)** | Also known as MSpec
 | [NaturalSpec](https://github.com/forki/NaturalSpec) | Discontinued
 | [NBehave](http://nbehave.org/)
@@ -116,6 +117,7 @@ Key:
 | [Netling](https://github.com/hallatore/Netling) | Load tests for web
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
 | [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
+| [Puppeteer Sharp Contributions](https://github.com/hlaueriksson/puppeteer-sharp-contrib)
 | [Selenium](http://www.seleniumhq.org/)
 | [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 | [Test.Automation](https://github.com/ObjectivityLtd/Test.Automation)
