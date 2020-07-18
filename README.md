@@ -272,6 +272,7 @@ Key:
 | [TestDataFactory](https://github.com/titarenko/TestDataFactory) | Discontinued
 | [TestDataGenerator](https://github.com/etishor/TestDataGenerator) | Discontinued
 | [TestStack.Dossier](http://dossier.teststack.net/)
+| [ObjectFiller.NET](https://github.com/Tynamix/ObjectFiller.NET)
 
 # Helper Libraries
 
