@@ -53,7 +53,7 @@ Key:
 | [NUnitLite](https://github.com/nunit/nunitlite) | Free and open source | Discontinued
 | [Roaster](https://roaster.codeplex.com/) | Free and open source | Discontinued
 | [Unquote](http://www.swensensoftware.com/unquote) | Free and open source | F#
-| **[xUnit.net](http://xunit.github.io/)** | Free and open source
+| **[xUnit.net](https://xunit.net/)** | Free and open source
 
 # Isolation Frameworks
 
