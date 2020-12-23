@@ -120,6 +120,7 @@ Key:
 | [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
 | [Puppeteer Sharp Contributions](https://github.com/hlaueriksson/puppeteer-sharp-contrib)
 | [Selenium](http://www.seleniumhq.org/)
+| [Squish GUI Tester](https://www.froglogic.com/squish/)
 | [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 | [Test.Automation](https://github.com/ObjectivityLtd/Test.Automation)
 | [TestLeft](https://smartbear.com/product/testleft/overview/)
@@ -146,6 +147,7 @@ Key:
 | [FlaUI](https://github.com/Roemer/FlaUI) |
 | [Microsoft Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | Part of Visual Studio
 | [NUnitForms](http://nunitforms.sourceforge.net/) | Discontinued
+| [Squish GUI Tester](https://www.froglogic.com/squish/)
 | [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 | [TestStack.White](https://github.com/TestStack/White)
 
@@ -297,6 +299,7 @@ Key:
 | [NBi](http://www.nbi.io/) | Framework to test Business Intelligence
 | [Quality Gate One Studio](http://www.qgonestudio.com/site/) | Combinatorial and Model-Based Testing 
 | [TestFlask](https://github.com/FatihSahin/test-flask) | Recording and mock replay framework with the ability to generate unit tests for recorded scenarios. It also provides some tools to ease scenario testing inside ASP.NET MVC apps.
+| [Squish Test Center](https://www.froglogic.com/testcenter/) | Aggregates test results in a central server and generates statistics.
 
 # Visual Studio Add-Ins
 
