@@ -75,7 +75,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| [ApprovalTests](http://approvaltests.sourceforge.net/)
+| [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net)
 | [Avignon](http://www.nolacom.com/avignon/)
 | [BDDfy](http://bddfy.teststack.net/)
 | [Concordion.NET](http://concordion.org/dotnet/)
@@ -210,7 +210,7 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
-| [ApprovalTest](https://github.com/approvals/ApprovalTests.Net) | 
+| [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net) | 
 | [Snapshooter](https://swisslife-oss.github.io/snapshooter/) | 
 | [Verify](https://github.com/SimonCropp/Verify) | 
 
