@@ -192,6 +192,7 @@ Key:
 | [PIT](http://pitest.org/)
 | [Stryker](https://stryker-mutator.io/)
 | [VisualMutator](http://visualmutator.github.io/web/)
+| [Testura.Mutation](https://github.com/Testura/Testura.Mutation)
 
 # Automated Exploratory Testing
 
