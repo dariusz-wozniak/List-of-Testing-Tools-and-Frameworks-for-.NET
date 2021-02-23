@@ -144,12 +144,13 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
+| [Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | Discontinued
 | [FlaUI](https://github.com/Roemer/FlaUI) |
-| [Microsoft Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | Part of Visual Studio
 | [NUnitForms](http://nunitforms.sourceforge.net/) | Discontinued
 | [Squish GUI Tester](https://www.froglogic.com/squish/)
 | [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 | [TestStack.White](https://github.com/TestStack/White)
+| [WinAppDriver](https://github.com/Microsoft/WinAppDriver)
 
 # Database Testing
 
