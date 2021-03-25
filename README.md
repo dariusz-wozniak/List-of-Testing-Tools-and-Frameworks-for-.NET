@@ -135,6 +135,7 @@ Key:
 | [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext) |
 | [Flurl](https://github.com/tmenier/Flurl) |
 | [MockHttp](https://github.com/richardszalay/mockhttp) |
+| [MockNet](https://github.com/Theorem/MockNet) |
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
 | [My Tested ASP.NET](https://mytestedasp.net/) |
 | [PactNet](https://github.com/pact-foundation/pact-net) |  
