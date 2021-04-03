@@ -214,6 +214,8 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net) | 
+| [Polaroider](https://wickedflame.github.io/Polaroider/) |
+| [Snapper](https://github.com/theramis/Snapper) |
 | [Snapshooter](https://swisslife-oss.github.io/snapshooter/) | 
 | [Verify](https://github.com/SimonCropp/Verify) | 
 
