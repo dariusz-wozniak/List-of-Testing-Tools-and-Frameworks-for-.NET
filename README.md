@@ -132,6 +132,7 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [Alba](http://jasperfx.github.io/alba/) |
+| [bUnit](https://bunit.dev/) | Blazor components testing
 | [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext) |
 | [Flurl](https://github.com/tmenier/Flurl) |
 | [MockHttp](https://github.com/richardszalay/mockhttp) |
