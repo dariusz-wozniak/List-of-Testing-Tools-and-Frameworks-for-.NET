@@ -230,6 +230,8 @@ Key:
 | [AxoCover](https://github.com/axodox/AxoTools) | Bases on OpenCover
 | [Coverlet](https://github.com/tonerdo/coverlet)
 | **[dotCover](https://www.jetbrains.com/dotcover)**
+| [Fine Code Coverage](https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage)
+
 | [NCover](https://www.ncover.com/)
 | [NCrunch](http://www.ncrunch.net/)
 | [NDepend](http://www.ndepend.com/)
@@ -241,7 +243,6 @@ Key:
 | [TestMatrix](http://submain.com/products/testmatrix.aspx)
 | [Typemock Isolator Coverage](http://www.typemock.com/coverage)
 | [Visual Studio Code Coverage](https://msdn.microsoft.com/en-us/library/dd537628.aspx)
-| [Fine Code Coverage](https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage)
 
 # Continuous Testing
 
