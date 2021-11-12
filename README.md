@@ -241,6 +241,7 @@ Key:
 | [TestMatrix](http://submain.com/products/testmatrix.aspx)
 | [Typemock Isolator Coverage](http://www.typemock.com/coverage)
 | [Visual Studio Code Coverage](https://msdn.microsoft.com/en-us/library/dd537628.aspx)
+| [Fine Code Coverage](https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage)
 
 # Continuous Testing
 
