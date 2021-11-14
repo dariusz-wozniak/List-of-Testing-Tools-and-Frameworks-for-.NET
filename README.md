@@ -231,7 +231,6 @@ Key:
 | [Coverlet](https://github.com/tonerdo/coverlet)
 | **[dotCover](https://www.jetbrains.com/dotcover)**
 | [Fine Code Coverage](https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage)
-
 | [NCover](https://www.ncover.com/)
 | [NCrunch](http://www.ncrunch.net/)
 | [NDepend](http://www.ndepend.com/)
