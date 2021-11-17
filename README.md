@@ -146,12 +146,13 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
+| [Appium](https://appium.io/docs/en/drivers/windows/)
 | [Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | Discontinued
 | [FlaUI](https://github.com/Roemer/FlaUI) |
 | [NUnitForms](http://nunitforms.sourceforge.net/) | Discontinued
 | [Squish GUI Tester](https://www.froglogic.com/squish/)
 | [TestComplete](https://smartbear.com/product/testcomplete/overview/)
-| [TestStack.White](https://github.com/TestStack/White)
+| [TestStack.White](https://github.com/TestStack/White) | Discontinued
 | [WinAppDriver](https://github.com/Microsoft/WinAppDriver)
 
 # Database Testing
