@@ -60,7 +60,7 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | **[FakeItEasy](http://fakeiteasy.github.io/)**
-| [Foq](https://foq.codeplex.com/)
+| [Foq](https://github.com/fsprojects/Foq) | F#, Discontinued
 | [JustMock](http://www.telerik.com/products/mocking.aspx)
 | [JustMock Lite](http://www.telerik.com/justmock/free-mocking)
 | [Microsoft Fakes](https://msdn.microsoft.com/en-us/library/hh549175.aspx) | Previously known as Microsoft Moles
