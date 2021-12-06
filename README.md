@@ -324,6 +324,7 @@ Key:
 | [TestDriven.Net](http://www.testdriven.net/)
 | [Unit Test Boilerplate Generator](https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator)
 | [Unit Test Generator](https://marketplace.visualstudio.com/items?itemName=VisualStudioALMRangers.UnitTestGenerator) | Discontinued
+| [Unitverse](https://marketplace.visualstudio.com/items?itemName=MattWhitfield.Unitverse) | Generates better boilerplate unit test code for existing classes
 | [Visual T#](https://web.archive.org/web/20110227025822/http://www.prettyobjects.com/en/Products/TSharp) | Discontinued
 | [WiseTester](https://marketplace.visualstudio.com/items?itemName=WiseTester.WiseTester-OvercomeUnitTestFailures)
 
