@@ -40,7 +40,7 @@ Key:
 
 # Unit Testing Frameworks
 
-| Framework | Licensing | Comment |
+| Library | Licensing | Comment |
 |-----------|-----------|---------|
 | [csUnit](http://www.csunit.org/) | Free and open source | Discontinued
 | [EMTF](https://archive.is/rptLh#selection-360.0-360.7) | Free and open source | - Known as Embeddable Micro Test Framework<Br />- Discontinued
@@ -57,7 +57,7 @@ Key:
 
 # Isolation Frameworks
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | **[FakeItEasy](http://fakeiteasy.github.io/)**
 | [Foq](https://github.com/fsprojects/Foq) | F#, Discontinued
@@ -74,7 +74,7 @@ Key:
 
 # Acceptance Testing / Behavior-Driven Development / Specification by Example
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net)
 | [Avignon](http://www.nolacom.com/avignon/)
@@ -110,7 +110,7 @@ Key:
 
 # Web Application Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | **[Atata](https://github.com/atata-framework/atata)**
 | [Canopy](http://lefthandedgoat.github.io/canopy/) | F#
@@ -132,7 +132,7 @@ Key:
 
 # Web Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [Alba](http://jasperfx.github.io/alba/) |
 | [bUnit](https://bunit.dev/) | Blazor components testing
@@ -150,7 +150,7 @@ Key:
 
 # User Interface Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [Appium](https://appium.io/docs/en/drivers/windows/)
 | [Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | Discontinued
@@ -164,7 +164,7 @@ Key:
 
 # Database Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [DbUnit.NET](http://dbunit-net.sourceforge.net/) | Discontinued
 | [NDbUnit](https://github.com/NDbUnit/NDbUnit)
@@ -172,13 +172,13 @@ Key:
 
 # Cloud Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [Azure Functions Test Fixture](https://github.com/jeffhollan/functions-test-helper)
 
 # Concurrent Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [FluentAssertions.Extensions](https://github.com/Kittyfisto/FluentAssertions.Extensions)
 | [Microsoft CHESS](http://research.microsoft.com/en-us/projects/chess/)
@@ -188,14 +188,14 @@ Key:
 
 # Memory Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [.NET Memory Profiler](http://memprofiler.com/) | Also known as MemProfiler
 | **[dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)**
 
 # Mutation Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [CREAM](http://galera.ii.pw.edu.pl/~adr/CREAM/) | Also known as CREAtor of Mutants
 | [Fettle](https://github.com/ComparetheMarket/fettle)
@@ -208,14 +208,14 @@ Key:
 
 # Automated Exploratory Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Part of Visual Studio<br>Previously known as:<br>- [Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>- [Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>- [Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
 | [Randoop.NET](https://github.com/abb-iss/Randoop.NET)
 
 # Property-Based Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [CsCheck](https://github.com/AnthonyLloyd/CsCheck)
 | **[FsCheck](https://fscheck.github.io/FsCheck/)** | Port of [QuickCheck](https://hackage.haskell.org/package/QuickCheck)
@@ -223,7 +223,7 @@ Key:
 
 # Approval Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net) | 
 | [DiffEngine](https://github.com/VerifyTests/DiffEngine) | Manages launching and cleanup of diff tools. Used by ApprovalTests, Shouldly, Verify
@@ -235,7 +235,7 @@ Key:
 
 # Code Coverage
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [AxoCover](https://github.com/axodox/AxoTools) | Bases on OpenCover
 | [Coverlet](https://github.com/tonerdo/coverlet)
@@ -255,7 +255,7 @@ Key:
 
 # Continuous Testing
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [Continuous Testing for Visual Studio 2010](https://marketplace.visualstudio.com/items?itemName=HavardS.ContinuousTestingforVisualStudio2010) | Discontinued
 | [ContinuousTests](http://www.continuoustests.com/) | Formerly Mighty Moose
@@ -268,7 +268,7 @@ Key:
 
 # Assertion Frameworks
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | **[Fluent Assertions](http://www.fluentassertions.com/)**
 | [NFluent](http://www.n-fluent.net/)
@@ -278,7 +278,7 @@ Key:
 
 # Test Data Builders and Dummy Data Generators
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [Any-.Net](https://github.com/andrewseward/Any-.Net) | Discontinued
 | [AutoBogus](https://github.com/nickdodd79/AutoBogus)
@@ -299,7 +299,7 @@ Key:
 
 # Helper Libraries
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [AutoMoq](https://github.com/darrencauthon/AutoMoq) | Auto mocking provider for Moq
 | [ConventionTests](http://conventiontests.teststack.net/) | Library that makes it easy to build validation rules for convention validation tests
@@ -311,7 +311,7 @@ Key:
 
 # Miscellaneous Tools
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [AccidentalFish.FSharp.Validation](https://github.com/JamesRandall/AccidentalFish.FSharp.Validation) | Simple validator DSL / library for F#
 | [ArchUnitNET](https://github.com/TNG/ArchUnitNET) | Library for checking the architecture of C# code
@@ -332,7 +332,7 @@ Key:
 
 # Visual Studio Add-Ins
 
-| Framework | Comment |
+| Library | Comment |
 |-----------|---------|
 | [GennyMcGenFace](https://marketplace.visualstudio.com/items?itemName=Armastevs.GennyMcGenFace) | Unit test generator
 | [nMate](https://code.google.com/archive/p/nmate/) | - Unit test code generation<br />- Discontinued
