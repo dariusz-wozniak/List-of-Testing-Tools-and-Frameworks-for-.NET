@@ -116,7 +116,7 @@ Key:
 | [Ivonna](http://ivonna.biz/) | Discontinued
 | [Netling](https://github.com/hallatore/Netling) | Load tests for web
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
-| [Playwright Sharp](https://github.com/microsoft/playwright-sharp)
+| **[Playwright for .NET](https://github.com/microsoft/playwright-sharp)** | - Port of [Playwright](https://playwright.dev/)<br />- Developed by Microsoft
 | [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
 | [Puppeteer Sharp Contributions](https://github.com/hlaueriksson/puppeteer-sharp-contrib)
 | [Selenium](http://www.seleniumhq.org/)
