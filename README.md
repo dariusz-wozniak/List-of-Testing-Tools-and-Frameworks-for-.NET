@@ -20,9 +20,9 @@ Key:
 - [Acceptance Testing / Behavior-Driven Development / Specification by Example](#acceptance-testing--behavior-driven-development--specification-by-example)
 - [Web Application Testing](#web-application-testing)
 - [Web Testing](#web-testing)
+- [Cloud Testing](#cloud-testing)
 - [User Interface Testing](#user-interface-testing)
 - [Database Testing](#database-testing)
-- [Cloud Testing](#cloud-testing)
 - [Concurrent Testing](#concurrent-testing)
 - [Memory Testing](#memory-testing)
 - [Mutation Testing](#mutation-testing)
@@ -31,7 +31,7 @@ Key:
 - [Approval Testing](#approval-testing)
 - [Code Coverage](#code-coverage)
 - [Continuous Testing](#continuous-testing)
-- [Assertion Frameworks](#assertion-frameworks)
+- [Fluent Assertion Frameworks](#fluent-assertion-frameworks)
 - [Test Data Builders and Dummy Data Generators](#test-data-builders-and-dummy-data-generators)
 - [Helper Libraries](#helper-libraries)
 - [Miscellaneous Tools](#miscellaneous-tools)
@@ -40,37 +40,41 @@ Key:
 
 # Unit Testing Frameworks
 
-| Library | Licensing | Comment |
-|-----------|-----------|---------|
-| [csUnit](http://www.csunit.org/) | Free and open source | Discontinued
-| [EMTF](https://archive.is/rptLh#selection-360.0-360.7) | Free and open source | - Known as Embeddable Micro Test Framework<Br />- Discontinued
-| [Expecto](https://github.com/haf/Expecto) | Free and open source | F#
-| [FsUnit](http://fsprojects.github.io/FsUnit/) | Free and open source | F#
-| [Fuchu](https://github.com/mausch/Fuchu) | Free and open source | F# / C# / VB.NET
-| [MbUnit](https://code.google.com/p/mb-unit/) | Free and open source | Discontinued
-| [MSTest](https://github.com/Microsoft/testfx) | Free and open source | - Also known as Microsoft Test Framework<br>- Part of Visual Studio
-| **[NUnit](http://www.nunit.org/)** | Free and open source
-| [NUnitLite](https://github.com/nunit/nunitlite) | Free and open source | Discontinued
-| [Roaster](https://roaster.codeplex.com/) | Free and open source | Discontinued
-| [Unquote](http://www.swensensoftware.com/unquote) | Free and open source | F#
-| **[xUnit.net](https://xunit.net/)** | Free and open source
+> What are unit test frameworks and how are they used? Simply stated, they are software tools to support writing and running unit tests, including a foundation on which to build tests and the functionality to execute the tests and report their results. They are not solely tools for testing; they can also be used as development tools on a par with preprocessors and debuggers. Unit test frameworks can contribute to almost every stage of software development, including software architecture and design, code implementation and debugging, performance optimization, and quality assurance. [Paul Hamill, Unit Test Frameworks](https://www.oreilly.com/library/view/unit-test-frameworks/0596006896/ch01.html)
+
+| Library | Comment |
+|-----------|-----------
+| [csUnit](http://www.csunit.org/) | *Discontinued*
+| [EMTF](https://archive.is/rptLh#selection-360.0-360.7) | - *Discontinued*<br>- Known as Embeddable Micro Test Framework
+| [Expecto](https://github.com/haf/Expecto)  | F#
+| [FsUnit](http://fsprojects.github.io/FsUnit/) |  F#
+| [Fuchu](https://github.com/mausch/Fuchu) | F# / C# / VB.NET
+| [MbUnit](https://code.google.com/p/mb-unit/) | *Discontinued*
+| [MSTest](https://github.com/Microsoft/testfx) | Also known as Microsoft Test Framework
+| **[NUnit](http://www.nunit.org/)** | 
+| [NUnitLite](https://github.com/nunit/nunitlite) | *Discontinued*
+| [Roaster](https://roaster.codeplex.com/) |  Discontinued
+| [Unquote](http://www.swensensoftware.com/unquote) | F#
+| **[xUnit.net](https://xunit.net/)** | 
 
 # Isolation Frameworks
+
+> An isolation framework is a set of programmable APIs that makes creating fake objects much simpler, faster, and shorter than hand-coding them. [Automate Planet](https://www.automatetheplanet.com/isolation-frameworks-fundamentals)
 
 | Library | Comment |
 |-----------|---------|
 | **[FakeItEasy](http://fakeiteasy.github.io/)**
-| [Foq](https://github.com/fsprojects/Foq) | F#, Discontinued
-| [JustMock](http://www.telerik.com/products/mocking.aspx)
+| [Foq](https://github.com/fsprojects/Foq) | F#, *Discontinued*
+| [JustMock](http://www.telerik.com/products/mocking.aspx) | Non-free
 | [JustMock Lite](http://www.telerik.com/justmock/free-mocking)
 | [Microsoft Fakes](https://msdn.microsoft.com/en-us/library/hh549175.aspx) | Previously known as Microsoft Moles
-| **[Moq](https://github.com/Moq/moq4)**
+| **[Moq](https://github.com/Moq/moq4)** | See also:<br>- [AutoMoq](https://github.com/darrencauthon/AutoMoq) ([updated fork](https://github.com/dariusz-wozniak/AutoMoq))<br>- [Automoqer](https://github.com/rbengtsson/Automoqer) ([updated fork](https://github.com/dariusz-wozniak/Automoqer))
 | [NMock](http://nmock.sourceforge.net/)
 | **[NSubstitute](http://nsubstitute.github.io/)**
-| [NUnit.Mocks](https://www.nuget.org/packages/NUnit.Mocks/) | Discontinued
-| [Rhino Mocks](https://meisinger2.wordpress.com/category/rhino-mocks/) | Discontinued
+| [NUnit.Mocks](https://www.nuget.org/packages/NUnit.Mocks/) | *Discontinued*
+| [Rhino Mocks](https://meisinger2.wordpress.com/category/rhino-mocks/) | *Discontinued*
 | [SimpleStubs](https://github.com/microsoft/SimpleStubs)
-| [Typemock Isolator](http://www.typemock.com/isolator-product-page)
+| [Typemock Isolator](http://www.typemock.com/isolator-product-page) | Non-free
 
 # Acceptance Testing / Behavior-Driven Development / Specification by Example
 
@@ -83,23 +87,23 @@ Key:
 | [Concordion.NET](http://concordion.org/dotnet/)
 | [CoreBDD](https://github.com/stevenknox/CoreBDD/)
 | [Cucumber](https://cucumber.io/)
-| [Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki) | Discontinued
+| [Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki) | *Discontinued*
 | [FitNesse](http://fitnesse.org/)
 | [Gauge](http://getgauge.io/)
 | [HonestCode](http://honestcode.io/)
 | [LightBDD](https://github.com/Suremaker/LightBDD)
 | [LoFuUnit](https://github.com/hlaueriksson/LoFuUnit)
 | **[Machine.Specifications](https://github.com/machine/machine.specifications)** | Also known as MSpec
-| [NaturalSpec](https://github.com/forki/NaturalSpec) | Discontinued
+| [NaturalSpec](https://github.com/forki/NaturalSpec) | *Discontinued*
 | [NBehave](http://nbehave.org/)
-| [NDecision](https://github.com/bradygaster/NDecision) | Discontinued
+| [NDecision](https://github.com/bradygaster/NDecision) | *Discontinued*
 | [NSpec](http://nspec.org/)
 | [Robot Framework](http://robotframework.org/)
-| [Spec4Net](https://bitbucket.org/fthomsen/spec4net/src) | Discontinued
+| [Spec4Net](https://bitbucket.org/fthomsen/spec4net/src) | *Discontinued*
 | **[SpecFlow](http://www.specflow.org/)**
 | [SpecsFor](http://specsfor.com/)
 | [Specter](http://specter.sourceforge.net/)
-| [StoryQ](http://storyq.codeplex.com/) | Discontinued
+| [StoryQ](http://storyq.codeplex.com/) | *Discontinued*
 | [StoryTeller](http://storyteller.github.io/)
 | [SubSpec](https://subspec.codeplex.com/)
 | [System.Spec](https://github.com/alexfalkowski/System.Spec)
@@ -110,81 +114,89 @@ Key:
 
 # Web Application Testing
 
+Testing web application UI e.g. via browser engine.
+
 | Library | Comment |
 |-----------|---------|
 | **[Atata](https://github.com/atata-framework/atata)**
 | [Canopy](http://lefthandedgoat.github.io/canopy/) | F#
 | [Coypu](https://github.com/featurist/coypu)
-| [FluentAutomation](https://github.com/stirno/FluentAutomation) | Discontinued
-| [IeUnit](https://code.google.com/archive/p/ieunit/) | Discontinued
-| [Ivonna](http://ivonna.biz/) | Discontinued
+| [FluentAutomation](https://github.com/stirno/FluentAutomation) | *Discontinued*
+| [IeUnit](https://code.google.com/archive/p/ieunit/) | *Discontinued*
+| [Ivonna](http://ivonna.biz/) | *Discontinued*
 | [Netling](https://github.com/hallatore/Netling) | Load tests for web
-| [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
+| [NUnitAsp](http://nunitasp.sourceforge.net/) | *Discontinued*
 | **[Playwright for .NET](https://github.com/microsoft/playwright-sharp)** | - Port of [Playwright](https://playwright.dev/)<br />- Developed by Microsoft
 | [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp) | - See also [Puppeteer Sharp Contributions](https://github.com/hlaueriksson/puppeteer-sharp-contrib)
+| [Ranorex](https://www.ranorex.com/) | GUI testing for desktop, web and mobile applications
 | [Selenium](http://www.seleniumhq.org/)
 | [Squish GUI Tester](https://www.froglogic.com/squish/)
 | [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 | [Test.Automation](https://github.com/ObjectivityLtd/Test.Automation)
 | [TestLeft](https://smartbear.com/product/testleft/overview/)
 | [TestStack.Seleno](http://seleno.teststack.net/)
-| [WatiN](https://www.nuget.org/packages/WatiN/) | Discontinued
+| [WatiN](https://www.nuget.org/packages/WatiN/) | *Discontinued*
 
 # Web Testing
 
+Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
+
 | Library | Comment |
 |-----------|---------|
-| [Alba](http://jasperfx.github.io/alba/) |
+| [Alba](http://jasperfx.github.io/alba/) | Utilities for ASP.Net Core web services testing
 | [bUnit](https://bunit.dev/) | Blazor components testing
-| [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext) |
-| [Flurl](https://github.com/tmenier/Flurl) |
-| [Mock4Net](https://github.com/alexvictoor/mock4net) | 
-| [MockHttp](https://github.com/richardszalay/mockhttp) |
-| [MockNet](https://github.com/Theorem/MockNet) |
-| [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
-| [My Tested ASP.NET](https://mytestedasp.net/) |
-| [NBomber](https://nbomber.com/) | - Pull and Push testing: HTTP/WebSockets/AMQP etc or a semantic model Pull/Push
-| [PactNet](https://github.com/pact-foundation/pact-net) |  
+| [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext) | Fake context for `HttpContext.Current`
+| [Flurl](https://github.com/tmenier/Flurl) | URL builder and HTTP client library.
+| [Mock4Net](https://github.com/alexvictoor/mock4net) | A fluent API allows to specify the behavior of the server and hence easily stub and mock webservices and REST resources
+| [MockHttp](https://github.com/richardszalay/mockhttp) | Replacement for `HttpMessageHandler`
+| [MockNet](https://github.com/Theorem/MockNet) | Friendly mocking framework to unit test the System.Net.Http namespace
+| [MockingBird](https://archive.codeplex.com/?p=mockingbird) | *Discontinued*
+| [My Tested ASP.NET](https://docs.mytestedasp.net/) | A fluent unit testing library for ASP.NET Core MVC 
+| [NBomber](https://nbomber.com/) | Pull and Push testing: HTTP/WebSockets/AMQP etc or a semantic model Pull/Push
+| [PactNet](https://github.com/pact-foundation/pact-net) |  - Port of [Pact](https://pact.io/)<br />- Testing for integrating web apps, APIs and microservices
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
-| [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) |
-
-# User Interface Testing
-
-| Library | Comment |
-|-----------|---------|
-| [Appium](https://appium.io/docs/en/drivers/windows/)
-| [Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | Discontinued
-| [FlaUI](https://github.com/Roemer/FlaUI) |
-| [NUnitForms](http://nunitforms.sourceforge.net/) | Discontinued
-| [Ranorex](https://www.ranorex.com/)
-| [Squish GUI Tester](https://www.froglogic.com/squish/)
-| [TestComplete](https://smartbear.com/product/testcomplete/overview/)
-| [TestStack.White](https://github.com/TestStack/White) | Discontinued
-| [WinAppDriver](https://github.com/Microsoft/WinAppDriver)
-
-# Database Testing
-
-| Library | Comment |
-|-----------|---------|
-| [DbUnit.NET](http://dbunit-net.sourceforge.net/) | Discontinued
-| [NDbUnit](https://github.com/NDbUnit/NDbUnit)
-| [Respawn](https://github.com/jbogard/Respawn) | A small utility to help in resetting test databases to a clean state
+| [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) | HTTP response stubbing, matchable on URL/Path, headers, cookies and body content patterns
 
 # Cloud Testing
 
 | Library | Comment |
 |-----------|---------|
+| [AWS .NET Mock Lambda Test Tool](https://github.com/aws/aws-lambda-dotnet)
 | [Azure Functions Test Fixture](https://github.com/jeffhollan/functions-test-helper)
+
+# User Interface Testing
+
+Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
+
+| Library | Comment |
+|-----------|---------|
+| [Appium](https://appium.io/docs/en/drivers/windows/) | Supports testing of Universal Windows Platform (UWP) and Classic Windows (Win32) applications
+| [Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | *Discontinued*
+| [FlaUI](https://github.com/Roemer/FlaUI) | Automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps)
+| [NUnitForms](http://nunitforms.sourceforge.net/) | *Discontinued*
+| [Ranorex](https://www.ranorex.com/) | GUI testing for desktop, web and mobile applications
+| [Squish GUI Tester](https://www.froglogic.com/squish/) | All kinds of cross-platform desktop, mobile, embedded and web applications
+| [TestComplete](https://smartbear.com/product/testcomplete/overview/) | "Ensure the quality of your application without sacrificing speed or agility with an easy-to-use, GUI test automation tool. Our AI-powered object recognition engine and script or scriptless flexibility is unmatched, letting you test every desktop, web, and mobile application with ease."
+| [TestStack.White](https://github.com/TestStack/White) | *Discontinued*
+| [WinAppDriver](https://github.com/Microsoft/WinAppDriver) | - Windows Application Driver<br>- Service to support Selenium-like UI Test Automation on Windows Applications<br>- Supports testing Universal Windows Platform (UWP), Windows Forms (WinForms), Windows Presentation Foundation (WPF), and Classic Windows (Win32) apps on Windows 10 PCs
+
+# Database Testing
+
+| Library | Comment |
+|-----------|---------|
+| [DbUnit.NET](http://dbunit-net.sourceforge.net/) | *Discontinued*
+| [NDbUnit](https://github.com/NDbUnit/NDbUnit) | - *Discontinued*<br>- Managing database state during unit testing
+| [Respawn](https://github.com/jbogard/Respawn) | A small utility to help in resetting test databases to a clean state
 
 # Concurrent Testing
 
 | Library | Comment |
 |-----------|---------|
 | [FluentAssertions.Extensions](https://github.com/Kittyfisto/FluentAssertions.Extensions)
-| [Microsoft CHESS](http://research.microsoft.com/en-us/projects/chess/)
+| [Microsoft CHESS](http://research.microsoft.com/en-us/projects/chess/) | - *Discontinued*<br>- "CHESS is a tool for finding and reproducing Heisenbugs in concurrent programs. CHESS repeatedly runs a concurrent test ensuring that every run takes a different interleaving. If an interleaving results in an error, CHESS can reproduce the interleaving for improved debugging. CHESS is available for both managed and native programs."
 | [Microsoft Coyote](https://microsoft.github.io/coyote/)
-| [ThreadTester](http://osherove.com/blog/2007/6/22/multi-threaded-unit-tests-with-osherovethreadtester.html)
-| [Typemock Racer](http://www.typemock.com/typemock-racer-product-old) | Discontinued
+| [Osherove.ThreadTester](http://osherove.com/blog/2007/6/22/multi-threaded-unit-tests-with-osherovethreadtester.html) | *Discontinued*
+| [Typemock Racer](http://www.typemock.com/typemock-racer-product-old) | *Discontinued*
 
 # Memory Testing
 
@@ -194,6 +206,8 @@ Key:
 | **[dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)**
 
 # Mutation Testing
+
+> Mutation testing (or mutation analysis or program mutation) is used to design new software tests and evaluate the quality of existing software tests. Mutation testing involves modifying a program in small ways. Each mutated version is called a mutant and tests detect and reject mutants by causing the behavior of the original version to differ from the mutant. This is called killing the mutant. Test suites are measured by the percentage of mutants that they kill. New tests can be designed to kill additional mutants. Mutants are based on well-defined mutation operators that either mimic typical programming errors (such as using the wrong operator or variable name) or force the creation of valuable tests (such as dividing each expression by zero). The purpose is to help the tester develop effective tests or locate weaknesses in the test data used for the program or in sections of the code that are seldom or never accessed during execution. Mutation testing is a form of white-box testing. [Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
 
 | Library | Comment |
 |-----------|---------|
@@ -208,6 +222,8 @@ Key:
 
 # Automated Exploratory Testing
 
+> Exploratory testing is an approach to software testing that is often described as simultaneous learning, test design, and execution. It focuses on discovery and relies on the guidance of the individual tester to uncover defects that are not easily covered in the scope of other tests. [Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/exploratory-testing)
+
 | Library | Comment |
 |-----------|---------|
 | **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Part of Visual Studio<br>Previously known as:<br>- [Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>- [Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>- [Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
@@ -215,11 +231,13 @@ Key:
 
 # Property-Based Testing
 
+> Property based testing relies on properties. It checks that a function, program or whatever system under test abides by a property. Most of the time, properties do not have to go into too much details about the output. They just have to check for useful characteristics that must be seen in the output. [Nicolas Dubien, Introduction to Property Based Testing](https://medium.com/criteo-engineering/introduction-to-property-based-testing-f5236229d237)
+
 | Library | Comment |
 |-----------|---------|
 | [CsCheck](https://github.com/AnthonyLloyd/CsCheck)
 | **[FsCheck](https://fscheck.github.io/FsCheck/)** | Port of [QuickCheck](https://hackage.haskell.org/package/QuickCheck)
-| [Hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) | - F# port of [Hedgehog](https://hedgehog.qa/)
+| [Hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) | F# port of [Hedgehog](https://hedgehog.qa/)
 
 # Approval Testing
 
@@ -228,7 +246,7 @@ Key:
 | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net) | 
 | [DiffEngine](https://github.com/VerifyTests/DiffEngine) | Manages launching and cleanup of diff tools. Used by ApprovalTests, Shouldly, Verify
 | [Polaroider](https://wickedflame.github.io/Polaroider/) |
-| [Shouldly](https://github.com/shouldly/shouldly) | - See also [`ShouldMatchApproved`](https://putlocker-watch-spectre-online-movie-free.readthedocs.io/en/latest/assertions/shouldMatchApproved.html)
+| [Shouldly](https://github.com/shouldly/shouldly) | See also [`ShouldMatchApproved`](https://putlocker-watch-spectre-online-movie-free.readthedocs.io/en/latest/assertions/shouldMatchApproved.html)
 | [Snapper](https://github.com/theramis/Snapper) |
 | [Snapshooter](https://swisslife-oss.github.io/snapshooter/) | 
 | [Verify](https://github.com/SimonCropp/Verify) | 
@@ -237,7 +255,7 @@ Key:
 
 | Library | Comment |
 |-----------|---------|
-| [AxoCover](https://github.com/axodox/AxoTools) | Bases on OpenCover
+| [AxoCover](https://github.com/axodox/AxoTools) | Based on OpenCover
 | [Coverlet](https://github.com/tonerdo/coverlet)
 | **[dotCover](https://www.jetbrains.com/dotcover)**
 | [Fine Code Coverage](https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage)
@@ -245,19 +263,21 @@ Key:
 | [NCrunch](http://www.ncrunch.net/)
 | [NDepend](http://www.ndepend.com/)
 | [OpenCover](https://github.com/OpenCover/opencover)
-| [PartCover](http://sourceforge.net/projects/partcover/) | Discontinued
+| [PartCover](http://sourceforge.net/projects/partcover/) | *Discontinued*
 | [Semantic Designs C# Test Coverage Tool](http://www.semanticdesigns.com/Products/TestCoverage/CSharpTestCoverage.html)
 | [Software Verify .NET Coverage Validator](http://www.softwareverify.com/dotnet-coverage.php)
 | [Squish Coco](http://www.froglogic.com/squish/coco/)
 | [TestMatrix](http://submain.com/products/testmatrix.aspx)
 | [Typemock Isolator Coverage](http://www.typemock.com/coverage)
-| [Visual Studio Code Coverage](https://msdn.microsoft.com/en-us/library/dd537628.aspx)
+| [Visual Studio Code Coverage](https://msdn.microsoft.com/en-us/library/dd537628.aspx) | Part of Visual Studio
 
 # Continuous Testing
 
+> Continuous testing is the process of executing automated tests as part of the software delivery pipeline to obtain immediate feedback on the business risks associated with a software release candidate. [Wikipedia](https://en.wikipedia.org/wiki/Continuous_testing)
+
 | Library | Comment |
 |-----------|---------|
-| [Continuous Testing for Visual Studio 2010](https://marketplace.visualstudio.com/items?itemName=HavardS.ContinuousTestingforVisualStudio2010) | Discontinued
+| [Continuous Testing for Visual Studio 2010](https://marketplace.visualstudio.com/items?itemName=HavardS.ContinuousTestingforVisualStudio2010) | *Discontinued*
 | [ContinuousTests](http://www.continuoustests.com/) | Formerly Mighty Moose
 | **[dotCover](https://www.jetbrains.com/help/dotcover/Continuous_Testing.html)**
 | [Giles](http://codereflection.github.io/Giles/)
@@ -266,34 +286,35 @@ Key:
 | [Parasoft dotTEST](https://www.parasoft.com/product/dottest/)
 | [Typemock Isolator Smart Runner](http://www.typemock.com/smart-runner)
 
-# Assertion Frameworks
+# Fluent Assertion Frameworks
 
 | Library | Comment |
 |-----------|---------|
 | **[Fluent Assertions](http://www.fluentassertions.com/)**
 | [NFluent](http://www.n-fluent.net/)
-| [SharpTestEx](http://sharptestex.codeplex.com/) | Discontinued
-| [Should Assertion Library](https://github.com/erichexter/Should) | Discontinued
+| [NUnitEx](https://code.google.com/archive/p/nunitex/) | *Discontinued*
+| [SharpTestEx](https://www.codewrecks.com/post/old/2011/03/writing-a-custom-assertion-for-sharptestex/) | *Discontinued*
+| [Should Assertion Library](https://github.com/erichexter/Should) | *Discontinued*
 | [Shouldly](https://github.com/shouldly/shouldly)
 
 # Test Data Builders and Dummy Data Generators
 
 | Library | Comment |
 |-----------|---------|
-| [Any-.Net](https://github.com/andrewseward/Any-.Net) | Discontinued
+| [Any-.Net](https://github.com/andrewseward/Any-.Net) | *Discontinued*
 | [AutoBogus](https://github.com/nickdodd79/AutoBogus)
 | **[AutoFixture](https://github.com/AutoFixture/AutoFixture)** |
-| [AutoPoco](http://autopoco.codeplex.com/) | Discontinued|
+| [AutoPoco](http://autopoco.codeplex.com/) | *Discontinued*|
 | **[Bogus](https://github.com/bchavez/Bogus)** |
-| [Fabricator](http://fabricator.codeplex.com/) | Discontinued
+| [Fabricator](http://fabricator.codeplex.com/) | *Discontinued*
 | [Faker.Net](https://github.com/slashdotdash/faker-cs) | 
 | [GenFu](https://github.com/MisterJames/GenFu) |
-| [Hydrator](http://hydrator.codeplex.com/) | Discontinued
+| [Hydrator](http://hydrator.codeplex.com/) | *Discontinued*
 | [NBuilder](https://github.com/nbuilder/nbuilder) |
 | [NTestDataBuilder](https://www.nuget.org/packages/NTestDataBuilder/) | - Now TestStack.Dossier<br />- Discontinued
 | [TestData](https://github.com/kiandra-it/test-data) |
-| [TestDataFactory](https://github.com/titarenko/TestDataFactory) | Discontinued
-| [TestDataGenerator](https://github.com/etishor/TestDataGenerator) | Discontinued
+| [TestDataFactory](https://github.com/titarenko/TestDataFactory) | *Discontinued*
+| [TestDataGenerator](https://github.com/etishor/TestDataGenerator) | *Discontinued*
 | [TestStack.Dossier](http://dossier.teststack.net/)
 | [Tynamix ObjectFiller.NET](https://github.com/Tynamix/ObjectFiller.NET)
 
@@ -317,7 +338,7 @@ Key:
 | [ArchUnitNET](https://github.com/TNG/ArchUnitNET) | Library for checking the architecture of C# code
 | [CheckTestOutput](https://github.com/exyi/CheckTestOutput) | A library for semi-manual tests. Run a function, manually check the output. But only if it is different than last run
 | [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects) | Deep compare of any two .NET objects using reflection
-| [Gallio Automation Platform](https://code.google.com/archive/p/mb-unit/) | Discontinued
+| [Gallio Automation Platform](https://code.google.com/archive/p/mb-unit/) | - Common object model, runtime services and tools (such as test runners) that may be leveraged by any number of test frameworks.<br> - *Discontinued*
 | [ErrorUnit](http://errorunit.com/) | Debug C# application by automatically creating C# Unit Tests in Visual Studio that recreate the situation leading up to the error
 | [ExpressionToCode](https://github.com/EamonNerbonne/ExpressionToCode) | Generates valid, readable C# from an Expression Tree
 | [Harmony 2.0](https://harmony.pardeike.net/) | Runtime alter functionality by monkey patching methods
@@ -335,14 +356,14 @@ Key:
 | Library | Comment |
 |-----------|---------|
 | [GennyMcGenFace](https://marketplace.visualstudio.com/items?itemName=Armastevs.GennyMcGenFace) | Unit test generator
-| [nMate](https://code.google.com/archive/p/nmate/) | - Unit test code generation<br />- Discontinued
+| [nMate](https://code.google.com/archive/p/nmate/) | - Unit test code generator<br />- *Discontinued*
 | [QuickUnit Unit Test Designer](https://visualstudiogallery.msdn.microsoft.com/dd88f120-27c6-444a-beeb-3cbdad4b620c)
 | **[ReSharper](https://www.jetbrains.com/resharper/features/unit_testing.html)**
 | [TestDriven.Net](http://www.testdriven.net/)
 | [Unit Test Boilerplate Generator](https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator)
-| [Unit Test Generator](https://marketplace.visualstudio.com/items?itemName=VisualStudioALMRangers.UnitTestGenerator) | Discontinued
-| [Unitverse](https://marketplace.visualstudio.com/items?itemName=MattWhitfield.Unitverse) | Generates better boilerplate unit test code for existing classes
-| [Visual T#](https://web.archive.org/web/20110227025822/http://www.prettyobjects.com/en/Products/TSharp) | Discontinued
+| [Unit Test Generator](https://marketplace.visualstudio.com/items?itemName=VisualStudioALMRangers.UnitTestGenerator) | *Discontinued*
+| [Unitverse](https://marketplace.visualstudio.com/items?itemName=MattWhitfield.Unitverse) | Unit test generator
+| [Visual T#](https://web.archive.org/web/20110227025822/http://www.prettyobjects.com/en/Products/TSharp) | *Discontinued*
 | [WiseTester](https://marketplace.visualstudio.com/items?itemName=WiseTester.WiseTester-OvercomeUnitTestFailures)
 
 # References
