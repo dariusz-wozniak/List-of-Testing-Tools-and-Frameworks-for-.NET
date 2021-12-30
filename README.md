@@ -117,8 +117,7 @@ Key:
 | [Netling](https://github.com/hallatore/Netling) | Load tests for web
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | Discontinued
 | **[Playwright for .NET](https://github.com/microsoft/playwright-sharp)** | - Port of [Playwright](https://playwright.dev/)<br />- Developed by Microsoft
-| [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
-| [Puppeteer Sharp Contributions](https://github.com/hlaueriksson/puppeteer-sharp-contrib)
+| [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp) | - See also | [Puppeteer Sharp Contributions](https://github.com/hlaueriksson/puppeteer-sharp-contrib)
 | [Selenium](http://www.seleniumhq.org/)
 | [Squish GUI Tester](https://www.froglogic.com/squish/)
 | [TestComplete](https://smartbear.com/product/testcomplete/overview/)
