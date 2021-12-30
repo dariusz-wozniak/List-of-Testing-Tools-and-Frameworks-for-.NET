@@ -69,6 +69,7 @@ Key:
 | **[NSubstitute](http://nsubstitute.github.io/)**
 | [NUnit.Mocks](https://www.nuget.org/packages/NUnit.Mocks/) | Discontinued
 | [Rhino Mocks](https://meisinger2.wordpress.com/category/rhino-mocks/) | Discontinued
+| [SimpleStubs](https://github.com/microsoft/SimpleStubs)
 | [Typemock Isolator](http://www.typemock.com/isolator-product-page)
 
 # Acceptance Testing / Behavior-Driven Development / Specification by Example
@@ -78,7 +79,9 @@ Key:
 | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net)
 | [Avignon](http://www.nolacom.com/avignon/)
 | [BDDfy](http://bddfy.teststack.net/)
+| [BDTest](https://github.com/thomhurst/BDTest/wiki)
 | [Concordion.NET](http://concordion.org/dotnet/)
+| [CoreBDD](https://github.com/stevenknox/CoreBDD/)
 | [Cucumber](https://cucumber.io/)
 | [Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki) | Discontinued
 | [FitNesse](http://fitnesse.org/)
@@ -103,6 +106,7 @@ Key:
 | [TickSpec](https://github.com/fsprojects/TickSpec)
 | [Verify](https://github.com/SimonCropp/Verify)
 | [xBehave.net](http://xbehave.github.io/)
+| [Xunit.Gherkin.Quick](https://github.com/ttutisani/Xunit.Gherkin.Quick)
 
 # Web Application Testing
 
@@ -134,12 +138,15 @@ Key:
 | [bUnit](https://bunit.dev/) | Blazor components testing
 | [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext) |
 | [Flurl](https://github.com/tmenier/Flurl) |
+| [Mock4Net](https://github.com/alexvictoor/mock4net) | 
 | [MockHttp](https://github.com/richardszalay/mockhttp) |
 | [MockNet](https://github.com/Theorem/MockNet) |
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | Discontinued
 | [My Tested ASP.NET](https://mytestedasp.net/) |
+| [NBomber](https://nbomber.com/) | - Pull and Push testing: HTTP/WebSockets/AMQP etc or a semantic model Pull/Push
 | [PactNet](https://github.com/pact-foundation/pact-net) |  
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
+| [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) |
 
 # User Interface Testing
 
@@ -210,7 +217,9 @@ Key:
 
 | Framework | Comment |
 |-----------|---------|
+| [CsCheck](https://github.com/AnthonyLloyd/CsCheck)
 | **[FsCheck](https://fscheck.github.io/FsCheck/)** | Port of [QuickCheck](https://hackage.haskell.org/package/QuickCheck)
+| [Hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) | - F# port of [Hedgehog](https://hedgehog.qa/)
 
 # Approval Testing
 
@@ -219,7 +228,7 @@ Key:
 | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net) | 
 | [DiffEngine](https://github.com/VerifyTests/DiffEngine) | Manages launching and cleanup of diff tools. Used by ApprovalTests, Shouldly, Verify
 | [Polaroider](https://wickedflame.github.io/Polaroider/) |
-| [Shouldly](https://github.com/shouldly/shouldly) | [`ShouldMatchApproved`](https://putlocker-watch-spectre-online-movie-free.readthedocs.io/en/latest/assertions/shouldMatchApproved.html)
+| [Shouldly](https://github.com/shouldly/shouldly) | - See also [`ShouldMatchApproved`](https://putlocker-watch-spectre-online-movie-free.readthedocs.io/en/latest/assertions/shouldMatchApproved.html)
 | [Snapper](https://github.com/theramis/Snapper) |
 | [Snapshooter](https://swisslife-oss.github.io/snapshooter/) | 
 | [Verify](https://github.com/SimonCropp/Verify) | 
@@ -305,19 +314,27 @@ Key:
 | Framework | Comment |
 |-----------|---------|
 | [AccidentalFish.FSharp.Validation](https://github.com/JamesRandall/AccidentalFish.FSharp.Validation) | Simple validator DSL / library for F#
+| [ArchUnitNET](https://github.com/TNG/ArchUnitNET) | Library for checking the architecture of C# code
+| [CheckTestOutput](https://github.com/exyi/CheckTestOutput) | A library for semi-manual tests. Run a function, manually check the output. But only if it is different than last run
+| [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects) | Deep compare of any two .NET objects using reflection
 | [Gallio Automation Platform](https://code.google.com/archive/p/mb-unit/) | Discontinued
 | [ErrorUnit](http://errorunit.com/) | Debug C# application by automatically creating C# Unit Tests in Visual Studio that recreate the situation leading up to the error
+| [ExpressionToCode](https://github.com/EamonNerbonne/ExpressionToCode) | Generates valid, readable C# from an Expression Tree
+| [Harmony 2.0](https://harmony.pardeike.net/) | Runtime alter functionality by monkey patching methods
 | [KREM](https://github.com/Bitvis/krem) | Automation and test framework. Integration, regression, spec testing. Well suitable for embedded. Written in Python, but support external scripts, etc.
 | [NBi](http://www.nbi.io/) | Framework to test Business Intelligence
+| [NScenario](https://github.com/cezarypiatek/NScenario) | Library for annotating steps of test case scenarios
 | [Quality Gate One Studio](http://www.qgonestudio.com/site/) | Combinatorial and Model-Based Testing 
 | [Scientist.NET](https://github.com/scientistproject/Scientist.net) | A library for carefully refactoring critical paths
 | [Squish Test Center](https://www.froglogic.com/testcenter/) | Aggregates test results in a central server and generates statistics
 | [TestFlask](https://github.com/FatihSahin/test-flask) | Recording and mock replay framework with the ability to generate unit tests for recorded scenarios. It also provides some tools to ease scenario testing inside ASP.NET MVC apps
+| [xRetry](https://github.com/JoshKeegan/xRetry) | Retry flickering test cases for xUnit and SpecFlow
 
 # Visual Studio Add-Ins
 
 | Framework | Comment |
 |-----------|---------|
+| [GennyMcGenFace](https://marketplace.visualstudio.com/items?itemName=Armastevs.GennyMcGenFace) | Unit test generator
 | [nMate](https://code.google.com/archive/p/nmate/) | - Unit test code generation<br />- Discontinued
 | [QuickUnit Unit Test Designer](https://visualstudiogallery.msdn.microsoft.com/dd88f120-27c6-444a-beeb-3cbdad4b620c)
 | **[ReSharper](https://www.jetbrains.com/resharper/features/unit_testing.html)**
@@ -330,6 +347,7 @@ Key:
 
 # References
 
+* [Awesome .NET: .NET Testing](https://dotnet.libhunt.com/categories/1837-testing)
 * [Osherove: Tools And Frameworks for Unit Testing in .NET for 2013](http://osherove.com/blog/2013/3/16/tools-and-frameworks-for-unit-testing-in-net-and-java.html)
 * [Stack Overflow: Is there any framework for .NET to populate test data?](https://stackoverflow.com/questions/1610212/is-there-any-framework-for-net-to-populate-test-data)
 * [Wikipedia: List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
