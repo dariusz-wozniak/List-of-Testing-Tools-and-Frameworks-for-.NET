@@ -131,8 +131,8 @@ Testing web application UI e.g. via browser engine.
 | [Ranorex](https://www.ranorex.com/) | GUI testing for desktop, web and mobile applications
 | [Selenium](http://www.seleniumhq.org/)
 | [Squish GUI Tester](https://www.froglogic.com/squish/)
-| [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 | [Test.Automation](https://github.com/ObjectivityLtd/Test.Automation)
+| [TestComplete](https://smartbear.com/product/testcomplete/overview/)
 | [TestLeft](https://smartbear.com/product/testleft/overview/)
 | [TestStack.Seleno](http://seleno.teststack.net/)
 | [WatiN](https://www.nuget.org/packages/WatiN/) | *Discontinued*
