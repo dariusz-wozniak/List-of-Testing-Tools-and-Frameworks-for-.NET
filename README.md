@@ -334,6 +334,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 
 | Library | Comment |
 |-----------|---------|
+| [.NET Testcontainers](https://github.com/HofmeisterAn/dotnet-testcontainers) | Library to support tests with throwaway instances of Docker containers 
 | [AccidentalFish.FSharp.Validation](https://github.com/JamesRandall/AccidentalFish.FSharp.Validation) | Simple validator DSL / library for F#
 | [ArchUnitNET](https://github.com/TNG/ArchUnitNET) | Library for checking the architecture of C# code
 | [CheckTestOutput](https://github.com/exyi/CheckTestOutput) | A library for semi-manual tests. Run a function, manually check the output. But only if it is different than last run
