@@ -152,7 +152,7 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 | [MockNet](https://github.com/Theorem/MockNet) | Friendly mocking framework to unit test the System.Net.Http namespace
 | [MockingBird](https://archive.codeplex.com/?p=mockingbird) | *Discontinued*
 | [My Tested ASP.NET](https://docs.mytestedasp.net/) | A fluent unit testing library for ASP.NET Core MVC 
-| [NBomber](https://nbomber.com/) | Pull and Push testing: HTTP/WebSockets/AMQP etc or a semantic model Pull/Push
+| [NBomber](https://nbomber.com/) | Load testing
 | [PactNet](https://github.com/pact-foundation/pact-net) |  - Port of [Pact](https://pact.io/)<br />- Testing for integrating web apps, APIs and microservices
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
 | [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) | HTTP response stubbing, matchable on URL/Path, headers, cookies and body content patterns
