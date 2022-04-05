@@ -100,7 +100,7 @@ Key:
 | [NSpec](http://nspec.org/)
 | [Robot Framework](http://robotframework.org/)
 | [Spec4Net](https://bitbucket.org/fthomsen/spec4net/src) | *Discontinued*
-| **[SpecFlow](http://www.specflow.org/)**
+| [SpecFlow](http://www.specflow.org/)
 | [SpecsFor](http://specsfor.com/)
 | [Specter](http://specter.sourceforge.net/)
 | [StoryQ](http://storyq.codeplex.com/) | *Discontinued*
@@ -109,7 +109,7 @@ Key:
 | [System.Spec](https://github.com/alexfalkowski/System.Spec)
 | [TickSpec](https://github.com/fsprojects/TickSpec)
 | [Verify](https://github.com/SimonCropp/Verify)
-| [xBehave.net](http://xbehave.github.io/)
+| [xBehave.net](https://github.com/adamralph/xbehave.net) | *Discontinued*
 | [Xunit.Gherkin.Quick](https://github.com/ttutisani/Xunit.Gherkin.Quick)
 
 # Web Application Testing
