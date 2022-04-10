@@ -123,7 +123,7 @@ Testing web application UI e.g. via browser engine.
 | [Coypu](https://github.com/featurist/coypu)
 | [FluentAutomation](https://github.com/stirno/FluentAutomation) | *Discontinued*
 | [IeUnit](https://code.google.com/archive/p/ieunit/) | *Discontinued*
-| [Ivonna](http://ivonna.biz/) | *Discontinued*
+| [Ivonna](http://web.archive.org/web/20150801175517/http://ivonna.biz/) | *Discontinued*
 | [Netling](https://github.com/hallatore/Netling) | Load tests for web
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | *Discontinued*
 | **[Playwright for .NET](https://github.com/microsoft/playwright-sharp)** | - Port of [Playwright](https://playwright.dev/)<br />- Developed by Microsoft
@@ -150,7 +150,7 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 | [Mock4Net](https://github.com/alexvictoor/mock4net) | A fluent API allows to specify the behavior of the server and hence easily stub and mock webservices and REST resources
 | [MockHttp](https://github.com/richardszalay/mockhttp) | Replacement for `HttpMessageHandler`
 | [MockNet](https://github.com/Theorem/MockNet) | Friendly mocking framework to unit test the System.Net.Http namespace
-| [MockingBird](https://archive.codeplex.com/?p=mockingbird) | *Discontinued*
+| [MockingBird](http://web.archive.org/web/20180412021202/https://archive.codeplex.com/?p=mockingbird) | *Discontinued*
 | [My Tested ASP.NET](https://docs.mytestedasp.net/) | A fluent unit testing library for ASP.NET Core MVC 
 | [NBomber](https://nbomber.com/) | Load testing
 | [PactNet](https://github.com/pact-foundation/pact-net) |  - Port of [Pact](https://pact.io/)<br />- Testing for integrating web apps, APIs and microservices
@@ -214,7 +214,8 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [CREAM](http://galera.ii.pw.edu.pl/~adr/CREAM/) | Also known as CREAtor of Mutants
 | [Fettle](https://github.com/ComparetheMarket/fettle)
 | [Nester](http://nester.sourceforge.net/)
-| [NinjaTurtles](https://ninjaturtles.codeplex.com/)
+| [NinjaTurtles](http://web.archive.org/web/20171222222621/https://ninjaturtles.codeplex.com/) | *Discontinued*
+| [NinjaTurtlesMutation](https://github.com/criteo/NinjaTurtlesMutation) | Fork of NinjaTurtles
 | [PIT](http://pitest.org/)
 | [Stryker](https://stryker-mutator.io/)
 | [Testura.Mutation](https://github.com/Testura/Testura.Mutation)
