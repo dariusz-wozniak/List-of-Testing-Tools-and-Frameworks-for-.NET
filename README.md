@@ -80,35 +80,35 @@ Key:
 
 | Library | Comment |
 |-----------|---------|
-| [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net)
-| [Avignon](http://www.nolacom.com/avignon/)
+| [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net) | *Discontinued*
+| [Avignon](http://web.archive.org/web/20160711113629/http://www.nolacom.com/avignon/) | *Discontinued*
 | [BDDfy](http://bddfy.teststack.net/)
-| [BDTest](https://github.com/thomhurst/BDTest/wiki)
+| [BDTest](https://github.com/thomhurst/BDTest)
 | [Concordion.NET](http://concordion.org/dotnet/)
 | [CoreBDD](https://github.com/stevenknox/CoreBDD/)
 | [Cucumber](https://cucumber.io/)
 | [Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki) | *Discontinued*
 | [FitNesse](http://fitnesse.org/)
-| [Gauge](http://getgauge.io/)
-| [HonestCode](http://honestcode.io/)
+| [Gauge](https://gauge.org/)
+| [HonestCode](https://github.com/honest-code) | *Discontinued*
 | [LightBDD](https://github.com/Suremaker/LightBDD)
 | [LoFuUnit](https://github.com/hlaueriksson/LoFuUnit)
 | **[Machine.Specifications](https://github.com/machine/machine.specifications)** | Also known as MSpec
 | [NaturalSpec](https://github.com/forki/NaturalSpec) | *Discontinued*
-| [NBehave](http://nbehave.org/)
+| [NBehave](https://github.com/nbehave/NBehave) | *Discontinued*
 | [NDecision](https://github.com/bradygaster/NDecision) | *Discontinued*
 | [NSpec](http://nspec.org/)
 | [Robot Framework](http://robotframework.org/)
-| [Spec4Net](https://bitbucket.org/fthomsen/spec4net/src) | *Discontinued*
+| [Spec4Net](https://www.nuget.org/packages/Spec4Net/) | *Discontinued*
 | [SpecFlow](http://www.specflow.org/)
 | [SpecsFor](http://specsfor.com/)
-| [Specter](http://specter.sourceforge.net/)
-| [StoryQ](http://storyq.codeplex.com/) | *Discontinued*
+| [Specter](http://specter.sourceforge.net/) | *Discontinued*
+| [StoryQ](https://github.com/wforney/storyq) | *Discontinued*
 | [StoryTeller](http://storyteller.github.io/)
-| [SubSpec](https://subspec.codeplex.com/)
-| [System.Spec](https://github.com/alexfalkowski/System.Spec)
+| [SubSpec](http://web.archive.org/web/20180105002238/https://subspec.codeplex.com/) | *Discontinued*
+| [System.Spec](https://github.com/alexfalkowski/System.Spec) | *Discontinued*
 | [TickSpec](https://github.com/fsprojects/TickSpec)
-| [Verify](https://github.com/SimonCropp/Verify)
+| **[Verify](https://github.com/SimonCropp/Verify)**
 | [xBehave.net](https://github.com/adamralph/xbehave.net) | *Discontinued*
 | [Xunit.Gherkin.Quick](https://github.com/ttutisani/Xunit.Gherkin.Quick)
 
