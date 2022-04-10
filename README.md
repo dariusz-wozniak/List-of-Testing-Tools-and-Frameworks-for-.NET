@@ -306,12 +306,13 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Any-.Net](https://github.com/andrewseward/Any-.Net) | *Discontinued*
 | [AutoBogus](https://github.com/nickdodd79/AutoBogus)
 | **[AutoFixture](https://github.com/AutoFixture/AutoFixture)** |
-| [AutoPoco](http://autopoco.codeplex.com/) | *Discontinued*|
+| [AutoPoco](https://www.nuget.org/packages/AutoPoco/) | *Discontinued*
+| [AutoPocoIO](https://github.com/AutoPocoIO/AutoPocoIO) 
 | **[Bogus](https://github.com/bchavez/Bogus)** |
-| [Fabricator](http://fabricator.codeplex.com/) | *Discontinued*
-| [Faker.Net](https://github.com/slashdotdash/faker-cs) | 
+| [Fabricator](https://www.nuget.org/packages/Fabricator/) | *Discontinued*
+| [Faker.Net](https://github.com/slashdotdash/faker-cs) | *Discontinued*
 | [GenFu](https://github.com/MisterJames/GenFu) |
-| [Hydrator](http://hydrator.codeplex.com/) | *Discontinued*
+| [Hydrator](https://www.nuget.org/packages/Hydrator) | *Discontinued*
 | [NBuilder](https://github.com/nbuilder/nbuilder) |
 | [NTestDataBuilder](https://www.nuget.org/packages/NTestDataBuilder/) | - Now TestStack.Dossier<br />- Discontinued
 | [TestData](https://github.com/kiandra-it/test-data) |
@@ -330,7 +331,8 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 
 | Library | Comment |
 |-----------|---------|
-| [AutoMoq](https://github.com/darrencauthon/AutoMoq) | Auto mocking provider for Moq
+| [AutoMoq](https://github.com/darrencauthon/AutoMoq) | Auto mocking provider for Moq, *Discontinued*
+| [Automoqer](https://github.com/rbengtsson/Automoqer) | Auto mocking provider for Moq, *Discontinued*
 | [ConventionTests](http://conventiontests.teststack.net/) | Library that makes it easy to build validation rules for convention validation tests
 | [Fixie](http://fixie.github.io/) | Convention for tests
 | [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllers
@@ -354,7 +356,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [KREM](https://github.com/Bitvis/krem) | Automation and test framework. Integration, regression, spec testing. Well suitable for embedded. Written in Python, but support external scripts, etc.
 | [NBi](http://www.nbi.io/) | Framework to test Business Intelligence
 | [NScenario](https://github.com/cezarypiatek/NScenario) | Library for annotating steps of test case scenarios
-| [Quality Gate One Studio](http://www.qgonestudio.com/site/) | Combinatorial and Model-Based Testing 
+| [Quality Gate One Studio](http://web.archive.org/web/20180906043816/http://www.qgonestudio.com/site/ | Combinatorial and Model-Based Testing, *Discontinued*
 | [Scientist.NET](https://github.com/scientistproject/Scientist.net) | A library for carefully refactoring critical paths
 | [Squish Test Center](https://www.froglogic.com/testcenter/) | Aggregates test results in a central server and generates statistics
 | [TestFlask](https://github.com/FatihSahin/test-flask) | Recording and mock replay framework with the ability to generate unit tests for recorded scenarios. It also provides some tools to ease scenario testing inside ASP.NET MVC apps
@@ -370,7 +372,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | **[ReSharper](https://www.jetbrains.com/resharper/features/unit_testing.html)**
 | [TestDriven.Net](http://www.testdriven.net/)
 | [Unit Test Boilerplate Generator](https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator)
-| [Unit Test Generator](https://marketplace.visualstudio.com/items?itemName=VisualStudioALMRangers.UnitTestGenerator) | *Discontinued*
+| [Unit Test Generator](https://devblogs.microsoft.com/devops/visual-studio-unit-test-generator-is-feature-complete-v1-release-candidate-lands-2/) | *Discontinued*
 | [Unitverse](https://marketplace.visualstudio.com/items?itemName=MattWhitfield.Unitverse) | Unit test generator
 | [Visual T#](https://web.archive.org/web/20110227025822/http://www.prettyobjects.com/en/Products/TSharp) | *Discontinued*
 | [WiseTester](https://marketplace.visualstudio.com/items?itemName=WiseTester.WiseTester-OvercomeUnitTestFailures)
