@@ -33,6 +33,7 @@ Key:
 - [Continuous Testing](#continuous-testing)
 - [Fluent Assertion Frameworks](#fluent-assertion-frameworks)
 - [Test Data Builders and Dummy Data Generators](#test-data-builders-and-dummy-data-generators)
+- [Quantum Programming](#quantum-programming)
 - [Helper Libraries](#helper-libraries)
 - [Miscellaneous Tools](#miscellaneous-tools)
 - [Visual Studio Add-Ins](#visual-studio-add-ins)
@@ -318,6 +319,12 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [TestDataGenerator](https://github.com/etishor/TestDataGenerator) | *Discontinued*
 | [TestStack.Dossier](http://dossier.teststack.net/)
 | [Tynamix ObjectFiller.NET](https://github.com/Tynamix/ObjectFiller.NET)
+
+# Quantum Programming
+
+| Library | Comment |
+|-----------|---------|
+| [Q# Test Project](https://docs.microsoft.com/en-us/azure/quantum/user-guide/testing-debugging?tabs=tabid-vs2022) |
 
 # Helper Libraries
 
