@@ -67,7 +67,7 @@ Key:
 | [Foq](https://github.com/fsprojects/Foq) | F#, *Discontinued*
 | [JustMock](http://www.telerik.com/products/mocking.aspx) | Non-free
 | [JustMock Lite](http://www.telerik.com/justmock/free-mocking)
-| [Microsoft Fakes](https://msdn.microsoft.com/en-us/library/hh549175.aspx) | Previously known as Microsoft Moles
+| [Microsoft Fakes](https://docs.microsoft.com/en-us/visualstudio/test/isolating-code-under-test-with-microsoft-fakes) | Previously known as Microsoft Moles
 | **[Moq](https://github.com/Moq/moq4)** | See also:<br>- [AutoMoq](https://github.com/darrencauthon/AutoMoq) ([updated fork](https://github.com/dariusz-wozniak/AutoMoq))<br>- [Automoqer](https://github.com/rbengtsson/Automoqer) ([updated fork](https://github.com/dariusz-wozniak/Automoqer))
 | [NMock](http://nmock.sourceforge.net/)
 | **[NSubstitute](http://nsubstitute.github.io/)**
