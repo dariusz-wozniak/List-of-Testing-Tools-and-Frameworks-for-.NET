@@ -194,7 +194,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 
 | Library | Comment |
 |-----------|---------|
-| [gamedriver](https://gamedriver.io/) | 
+| [GameDriver](https://gamedriver.io/) | 
 
 # Concurrent Testing
 
