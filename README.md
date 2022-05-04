@@ -23,6 +23,7 @@ Key:
 - [Cloud Testing](#cloud-testing)
 - [User Interface Testing](#user-interface-testing)
 - [Database Testing](#database-testing)
+- [Video Game Testing](#video-game-testing)
 - [Concurrent Testing](#concurrent-testing)
 - [Memory Testing](#memory-testing)
 - [Mutation Testing](#mutation-testing)
@@ -188,6 +189,12 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [DbUnit.NET](http://dbunit-net.sourceforge.net/) | *Discontinued*
 | [NDbUnit](https://github.com/NDbUnit/NDbUnit) | - *Discontinued*<br>- Managing database state during unit testing
 | [Respawn](https://github.com/jbogard/Respawn) | A small utility to help in resetting test databases to a clean state
+
+# Video Game Testing
+
+| Library | Comment |
+|-----------|---------|
+| [gamedriver](https://gamedriver.io/) | 
 
 # Concurrent Testing
 
