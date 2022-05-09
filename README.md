@@ -78,6 +78,14 @@ Key:
 | [SimpleStubs](https://github.com/microsoft/SimpleStubs)
 | [Typemock Isolator](http://www.typemock.com/isolator-product-page) | Non-free
 
+## Mock or replace static and non-virtual
+
+| Library | Comment |
+|-----------|---------|
+| [Harmony 2.0](https://harmony.pardeike.net/) | Runtime alter functionality by monkey patching methods
+| [Pose](https://github.com/tonerdo/pose) | Pose allows you to replace any .NET method (including static and non-virtual) with a delegate. It is similar to Microsoft Fakes but unlike it Pose is implemented entirely in managed code (Reflection Emit API). Everything occurs at runtime and in-memory, no unmanaged Profiling APIs and no file system pollution with re-written assemblies.
+| [Smocks](https://github.com/vanderkleij/Smocks) | Smocks uses some magic under the hood to mock the normally unmockable.
+
 # Acceptance Testing / Behavior-Driven Development / Specification by Example
 
 | Library | Comment |
@@ -359,7 +367,6 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Gallio Automation Platform](https://code.google.com/archive/p/mb-unit/) | - Common object model, runtime services and tools (such as test runners) that may be leveraged by any number of test frameworks.<br> - *Discontinued*
 | [ErrorUnit](http://errorunit.com/) | Debug C# application by automatically creating C# Unit Tests in Visual Studio that recreate the situation leading up to the error
 | [ExpressionToCode](https://github.com/EamonNerbonne/ExpressionToCode) | Generates valid, readable C# from an Expression Tree
-| [Harmony 2.0](https://harmony.pardeike.net/) | Runtime alter functionality by monkey patching methods
 | [KREM](https://github.com/Bitvis/krem) | Automation and test framework. Integration, regression, spec testing. Well suitable for embedded. Written in Python, but support external scripts, etc.
 | [NBi](http://www.nbi.io/) | Framework to test Business Intelligence
 | [NScenario](https://github.com/cezarypiatek/NScenario) | Library for annotating steps of test case scenarios
