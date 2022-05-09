@@ -78,7 +78,7 @@ Key:
 | [SimpleStubs](https://github.com/microsoft/SimpleStubs)
 | [Typemock Isolator](http://www.typemock.com/isolator-product-page) | Non-free
 
-## Mock or replace static and non-virtual
+## Mock\replace anything (static, non-virtual, etc.)
 
 | Library | Comment |
 |-----------|---------|
