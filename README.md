@@ -349,6 +349,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [AutoMoq](https://github.com/darrencauthon/AutoMoq) | Auto mocking provider for Moq, *Discontinued*
 | [Automoqer](https://github.com/rbengtsson/Automoqer) | Auto mocking provider for Moq, *Discontinued*
 | [ConventionTests](http://conventiontests.teststack.net/) | Library that makes it easy to build validation rules for convention validation tests
+| [FakeLocalTimeZone](https://github.com/dariusz-wozniak/FakeLocalTimeZone) | Fake of system TimeZone
 | [Fixie](http://fixie.github.io/) | Convention for tests
 | [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllers
 | [MockQueryable](https://github.com/romantitov/MockQueryable) | Extensions for mocking EfCore
