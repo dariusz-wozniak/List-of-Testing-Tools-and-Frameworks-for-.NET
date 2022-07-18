@@ -156,6 +156,7 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 |-----------|---------|
 | [Alba](http://jasperfx.github.io/alba/) | Utilities for ASP.Net Core web services testing
 | [bUnit](https://bunit.dev/) | Blazor components testing
+| [DFrame](https://github.com/Cysharp/DFrame/) | This library allows you to write distributed load test scenarios in plain C#, no needs weird gui, dsl, xml, json, yaml. In addition to HTTP/1, you can test HTTP/2, gRPC, MagicOnion, Photon, or original network transport by writing in C#.
 | [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext) | Fake context for `HttpContext.Current`
 | [Flurl](https://github.com/tmenier/Flurl) | URL builder and HTTP client library.
 | [Mock4Net](https://github.com/alexvictoor/mock4net) | A fluent API allows to specify the behavior of the server and hence easily stub and mock webservices and REST resources
