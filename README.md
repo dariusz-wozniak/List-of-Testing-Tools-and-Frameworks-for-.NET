@@ -130,6 +130,7 @@ Testing web application UI e.g. via browser engine.
 | Library | Comment |
 |-----------|---------|
 | **[Atata](https://github.com/atata-framework/atata)**
+| [BugBug.io](https://bugbug.io) | Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests.
 | [Canopy](http://lefthandedgoat.github.io/canopy/) | F#
 | [Coypu](https://github.com/featurist/coypu)
 | [FluentAutomation](https://github.com/stirno/FluentAutomation) | *Discontinued*
