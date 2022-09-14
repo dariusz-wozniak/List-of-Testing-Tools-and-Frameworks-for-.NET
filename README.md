@@ -107,6 +107,7 @@ Key:
 | [NaturalSpec](https://github.com/forki/NaturalSpec) | *Discontinued*
 | [NBehave](https://github.com/nbehave/NBehave) | *Discontinued*
 | [NDecision](https://github.com/bradygaster/NDecision) | *Discontinued*
+| [NScenario](https://github.com/cezarypiatek/NScenario) |
 | [NSpec](http://nspec.org/)
 | [Ogooreck](https://github.com/oskardudycz/Ogooreck)
 | [Robot Framework](http://robotframework.org/)
