@@ -188,11 +188,11 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [FlaUI](https://github.com/Roemer/FlaUI) | Automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps)
 | [NUnitForms](http://nunitforms.sourceforge.net/) | *Discontinued*
 | [Ranorex](https://www.ranorex.com/) | GUI testing for desktop, web and mobile applications
+| [Scrutiny](https://github.com/kaeedo/Scrutiny) | F# and C# library for testing state machines by randomly choosing available states and valid transitions. Designed for usage with UI tests.
 | [Squish GUI Tester](https://www.froglogic.com/squish/) | All kinds of cross-platform desktop, mobile, embedded and web applications
 | [TestComplete](https://smartbear.com/product/testcomplete/overview/) | "Ensure the quality of your application without sacrificing speed or agility with an easy-to-use, GUI test automation tool. Our AI-powered object recognition engine and script or scriptless flexibility is unmatched, letting you test every desktop, web, and mobile application with ease."
 | [TestStack.White](https://github.com/TestStack/White) | *Discontinued*
 | [WinAppDriver](https://github.com/Microsoft/WinAppDriver) | - Windows Application Driver<br>- Service to support Selenium-like UI Test Automation on Windows Applications<br>- Supports testing Universal Windows Platform (UWP), Windows Forms (WinForms), Windows Presentation Foundation (WPF), and Classic Windows (Win32) apps on Windows 10 PCs
-| [Scrutiny](https://github.com/kaeedo/Scrutiny) | F# and C# library for testing state machines by randomly choosing available states and valid transitions. Designed for usage with UI tests.
 
 # Database Testing
 
