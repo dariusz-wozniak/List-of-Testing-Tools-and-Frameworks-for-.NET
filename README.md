@@ -169,6 +169,7 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 | [PactNet](https://github.com/pact-foundation/pact-net) |  - Port of [Pact](https://pact.io/)<br />- Testing for integrating web apps, APIs and microservices
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
 | [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) | HTTP response stubbing, matchable on URL/Path, headers, cookies and body content patterns
+| [HttpClient Interception](https://github.com/justeat/httpclient-interception) | Simple library to provide stub responses in tests using HttpClient.
 
 # Cloud Testing
 
