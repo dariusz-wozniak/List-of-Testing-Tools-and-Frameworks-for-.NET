@@ -160,6 +160,7 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 | [DFrame](https://github.com/Cysharp/DFrame/) | This library allows you to write distributed load test scenarios in plain C#, no needs weird gui, dsl, xml, json, yaml. In addition to HTTP/1, you can test HTTP/2, gRPC, MagicOnion, Photon, or original network transport by writing in C#.
 | [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext) | Fake context for `HttpContext.Current`
 | [Flurl](https://github.com/tmenier/Flurl) | URL builder and HTTP client library.
+| [HttpClient Interception](https://github.com/justeat/httpclient-interception) | Simple library to provide stub responses in tests using HttpClient.
 | [Mock4Net](https://github.com/alexvictoor/mock4net) | A fluent API allows to specify the behavior of the server and hence easily stub and mock webservices and REST resources
 | [MockHttp](https://github.com/richardszalay/mockhttp) | Replacement for `HttpMessageHandler`
 | [MockNet](https://github.com/Theorem/MockNet) | Friendly mocking framework to unit test the System.Net.Http namespace
@@ -169,7 +170,6 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 | [PactNet](https://github.com/pact-foundation/pact-net) |  - Port of [Pact](https://pact.io/)<br />- Testing for integrating web apps, APIs and microservices
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
 | [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) | HTTP response stubbing, matchable on URL/Path, headers, cookies and body content patterns
-| [HttpClient Interception](https://github.com/justeat/httpclient-interception) | Simple library to provide stub responses in tests using HttpClient.
 
 # Cloud Testing
 
