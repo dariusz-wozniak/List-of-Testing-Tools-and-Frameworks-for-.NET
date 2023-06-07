@@ -177,6 +177,7 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 |-----------|---------|
 | [AWS .NET Mock Lambda Test Tool](https://github.com/aws/aws-lambda-dotnet)
 | [Azure Functions Test Fixture](https://github.com/jeffhollan/functions-test-helper)
+| [Azure Resource Manager Template Toolkit (arm-ttk)](https://github.com/Azure/arm-ttk)
 
 # User Interface Testing
 
