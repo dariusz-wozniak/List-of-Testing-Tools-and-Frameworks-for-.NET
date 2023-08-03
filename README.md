@@ -93,6 +93,7 @@ Key:
 | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net) | *Discontinued*
 | [Avignon](http://web.archive.org/web/20160711113629/http://www.nolacom.com/avignon/) | *Discontinued*
 | [BDDfy](http://bddfy.teststack.net/)
+| [BddPipe](https://github.com/craigrice/bddpipe)
 | [BDTest](https://github.com/thomhurst/BDTest)
 | [Concordion.NET](http://concordion.org/dotnet/)
 | [CoreBDD](https://github.com/stevenknox/CoreBDD/)
