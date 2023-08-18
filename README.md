@@ -71,7 +71,7 @@ Key:
 | [JustMock](http://www.telerik.com/products/mocking.aspx) | Non-free
 | [JustMock Lite](http://www.telerik.com/justmock/free-mocking)
 | [Microsoft Fakes](https://docs.microsoft.com/en-us/visualstudio/test/isolating-code-under-test-with-microsoft-fakes) | Previously known as Microsoft Moles
-| Moq | Not recommended! Read https://github.com/moq/moq/issues/1372
+| [Moq](https://github.com/moq/moq) | Not recommended; read https://github.com/moq/moq/issues/1372
 | [NMock](http://nmock.sourceforge.net/)
 | **[NSubstitute](http://nsubstitute.github.io/)**
 | [NUnit.Mocks](https://www.nuget.org/packages/NUnit.Mocks/) | *Discontinued*
