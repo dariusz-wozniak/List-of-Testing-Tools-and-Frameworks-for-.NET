@@ -379,7 +379,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [KREM](https://github.com/Bitvis/krem) | Automation and test framework. Integration, regression, spec testing. Well suitable for embedded. Written in Python, but support external scripts, etc.
 | [NBi](http://www.nbi.io/) | Framework to test Business Intelligence
 | [NScenario](https://github.com/cezarypiatek/NScenario) | Library for annotating steps of test case scenarios
-| [Quality Gate One Studio](http://web.archive.org/web/20180906043816/http://www.qgonestudio.com/site/ | Combinatorial and Model-Based Testing, *Discontinued*
+| [Quality Gate One Studio](http://web.archive.org/web/20180906043816/http://www.qgonestudio.com/site/) | Combinatorial and Model-Based Testing, *Discontinued*
 | [Scientist.NET](https://github.com/scientistproject/Scientist.net) | A library for carefully refactoring critical paths
 | [Squish Test Center](https://www.froglogic.com/testcenter/) | Aggregates test results in a central server and generates statistics
 | [TestFlask](https://github.com/FatihSahin/test-flask) | Recording and mock replay framework with the ability to generate unit tests for recorded scenarios. It also provides some tools to ease scenario testing inside ASP.NET MVC apps
