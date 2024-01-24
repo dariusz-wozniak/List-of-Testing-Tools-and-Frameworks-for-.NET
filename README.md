@@ -187,7 +187,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 
 | Library | Comment |
 |-----------|---------|
-| [Appium](https://appium.io/docs/en/drivers/windows/) | Supports testing of Universal Windows Platform (UWP) and Classic Windows (Win32) applications
+| [Appium](https://appium.io/docs/en/) | Supports testing of Universal Windows Platform (UWP) and Classic Windows (Win32) applications
 | [Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx) | *Discontinued*
 | [FlaUI](https://github.com/Roemer/FlaUI) | Automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps)
 | [NUnitForms](http://nunitforms.sourceforge.net/) | *Discontinued*
