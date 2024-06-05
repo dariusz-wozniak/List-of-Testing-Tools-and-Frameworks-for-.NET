@@ -112,6 +112,7 @@ Key:
 | [NScenario](https://github.com/cezarypiatek/NScenario) |
 | [NSpec](http://nspec.org/)
 | [Ogooreck](https://github.com/oskardudycz/Ogooreck)
+| [Reqnroll](https://reqnroll.net/) | Open-source reboot of the SpecFlow project
 | [Robot Framework](http://robotframework.org/)
 | [Spec4Net](https://www.nuget.org/packages/Spec4Net/) | *Discontinued*
 | [SpecFlow](http://www.specflow.org/)
