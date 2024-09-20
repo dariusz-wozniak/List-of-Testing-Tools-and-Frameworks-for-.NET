@@ -56,6 +56,7 @@ Key:
 | **[NUnit](http://www.nunit.org/)** | 
 | [NUnitLite](https://github.com/nunit/nunitlite) | *Discontinued*
 | [Roaster](https://web.archive.org/web/20150623234601/https://roaster.codeplex.com/) |  *Discontinued*
+| **[TUnit]**(https://github.com/thomhurst/TUnit)
 | [Unquote](https://github.com/SwensenSoftware/Unquote) | F#
 | **[xUnit.net](https://xunit.net/)** | 
 
