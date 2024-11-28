@@ -338,6 +338,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Faker.Net](https://github.com/slashdotdash/faker-cs) | *Discontinued*
 | [GenFu](https://github.com/MisterJames/GenFu) |
 | [Hydrator](https://www.nuget.org/packages/Hydrator) | *Discontinued*
+| [NaughtyStrings](https://github.com/SimonCropp/NaughtyStrings) | .NET API for [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 | [NBuilder](https://github.com/nbuilder/nbuilder) |
 | [NTestDataBuilder](https://www.nuget.org/packages/NTestDataBuilder/) | - Now TestStack.Dossier<br />- Discontinued
 | [TestData](https://github.com/kiandra-it/test-data) |
