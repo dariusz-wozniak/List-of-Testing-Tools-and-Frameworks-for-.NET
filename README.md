@@ -387,6 +387,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Scientist.NET](https://github.com/scientistproject/Scientist.net) | A library for carefully refactoring critical paths
 | [Squish Test Center](https://www.froglogic.com/testcenter/) | Aggregates test results in a central server and generates statistics
 | [TestFlask](https://github.com/FatihSahin/test-flask) | Recording and mock replay framework with the ability to generate unit tests for recorded scenarios. It also provides some tools to ease scenario testing inside ASP.NET MVC apps
+| [Visual Studio Test Platform](https://github.com/microsoft/vstest) | Also known as VSTest<br>The Visual Studio Test Platform is an open and extensible test platform that enables running tests, collect diagnostics data and report results. The Test Platform supports running tests written in various test frameworks, and using a pluggable adapter model. Based on user-choice, the desired test framework and its corresponding adapter can be acquired as a vsix or as NuGet package as the case may be. Adapters can be written in terms of a public API exposed by the Test Platform.
 | [xRetry](https://github.com/JoshKeegan/xRetry) | Retry flickering test cases for xUnit and SpecFlow
 
 # Visual Studio Add-Ins
