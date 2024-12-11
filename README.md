@@ -380,6 +380,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [ErrorUnit](http://errorunit.com/) | Debug C# application by automatically creating C# Unit Tests in Visual Studio that recreate the situation leading up to the error
 | [ExpressionToCode](https://github.com/EamonNerbonne/ExpressionToCode) | Generates valid, readable C# from an Expression Tree
 | [KREM](https://github.com/Bitvis/krem) | Automation and test framework. Integration, regression, spec testing. Well suitable for embedded. Written in Python, but support external scripts, etc.
+| [Microsoft.Testing.Platform](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-platform-intro) | Microsoft.Testing.Platform is a lightweight and portable alternative to VSTest for running tests in all contexts, including continuous integration (CI) pipelines, CLI, Visual Studio Test Explorer, and VS Code Text Explorer. The Microsoft.Testing.Platform is embedded directly in your test projects, and there's no other app dependencies, such as vstest.console or dotnet test needed to run your tests.
 | [NBi](http://www.nbi.io/) | Framework to test Business Intelligence
 | [NScenario](https://github.com/cezarypiatek/NScenario) | Library for annotating steps of test case scenarios
 | [Quality Gate One Studio](http://web.archive.org/web/20180906043816/http://www.qgonestudio.com/site/) | Combinatorial and Model-Based Testing, *Discontinued*
