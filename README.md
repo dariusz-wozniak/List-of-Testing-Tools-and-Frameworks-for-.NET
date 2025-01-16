@@ -322,7 +322,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [NUnitEx](https://code.google.com/archive/p/nunitex/) | *Discontinued*
 | [SharpTestEx](https://www.codewrecks.com/post/old/2011/03/writing-a-custom-assertion-for-sharptestex/) | *Discontinued*
 | [Should Assertion Library](https://github.com/erichexter/Should) | *Discontinued*
-| **[Shouldly](https://github.com/shouldly/shouldly)**
+| [Shouldly](https://github.com/shouldly/shouldly)
 
 # Test Data Builders and Dummy Data Generators
 
