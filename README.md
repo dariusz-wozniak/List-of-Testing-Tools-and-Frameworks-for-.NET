@@ -237,7 +237,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 
 | Library | Comment |
 |-----------|---------|
-| [Simmy](http://memprofiler.com/](https://github.com/Polly-Contrib/Simmy) | Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET
+| [Simmy](https://github.com/Polly-Contrib/Simmy) | Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET
 
 # Mutation Testing
 
