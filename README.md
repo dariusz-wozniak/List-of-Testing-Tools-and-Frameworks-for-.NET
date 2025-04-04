@@ -1,6 +1,6 @@
 # List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
 
-List of Automated Testing Frameworks for .NET related to methodologies and types of tests:
+🧪 List of Automated Testing Frameworks for .NET related to methodologies and types of tests:
 - Test-Driven Development (TDD)
 - Behavior-Driven Development (BDD)
 - Specification by Example (SBE)
@@ -16,33 +16,36 @@ Key:
 
 # Table of Contents
 
-- [Unit Testing Frameworks](#unit-testing-frameworks)
-- [Isolation Frameworks](#isolation-frameworks)
-- [Acceptance Testing / Behavior-Driven Development / Specification by Example](#acceptance-testing--behavior-driven-development--specification-by-example)
-- [Web Application Testing](#web-application-testing)
-- [Web Testing](#web-testing)
-- [Cloud Testing](#cloud-testing)
-- [User Interface Testing](#user-interface-testing)
-- [Database Testing](#database-testing)
-- [Video Game Testing](#video-game-testing)
-- [Concurrent Testing](#concurrent-testing)
-- [Memory Testing](#memory-testing)
-- [Resilience Testing](#resilience-testing)
-- [Mutation Testing](#mutation-testing)
-- [Automated Exploratory Testing](#automated-exploratory-testing)
-- [Property-Based Testing](#property-based-testing)
-- [Approval Testing](#approval-testing)
-- [Code Coverage](#code-coverage)
-- [Continuous Testing](#continuous-testing)
-- [Fluent Assertion Frameworks](#fluent-assertion-frameworks)
-- [Test Data Builders and Dummy Data Generators](#test-data-builders-and-dummy-data-generators)
-- [Quantum Programming](#quantum-programming)
-- [Helper Libraries](#helper-libraries)
-- [Miscellaneous Tools](#miscellaneous-tools)
-- [Visual Studio Add-Ins](#visual-studio-add-ins)
-- [References](#references)
+- List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
+- Table of Contents
+- 🧪 Unit Testing Frameworks
+- 🎭 Isolation Frameworks
+    - Mock/replace anything (static, non-virtual, etc.)
+- 📝 Acceptance Testing / Behavior-Driven Development / Specification by Example
+- 🌍 Web Application Testing
+- 🕷️ Web Testing
+- ☁️ Cloud Testing
+- 🖱️ User Interface Testing
+- 💾 Database Testing
+- 🕹️ Video Game Testing
+- 🚦 Concurrent Testing
+- 🧠 Memory Testing
+- 🐒 Resilience Testing
+- 🧟 Mutation Testing
+- 🗺️ Automated Exploratory Testing
+- ⚙️ Property-Based Testing
+- ✅ Approval Testing
+- 📊 Code Coverage
+- 🔄 Continuous Testing
+- ✨ Fluent Assertion Frameworks
+- 🔠 Test Data Builders and Dummy Data Generators
+- ⚛️ Quantum Programming
+- 🧩 Helper Libraries
+- 🛠️ Miscellaneous Tools
+- Visual Studio Add-Ins
+- References
 
-# Unit Testing Frameworks
+# 🧪 Unit Testing Frameworks
 
 > What are unit test frameworks and how are they used? Simply stated, they are software tools to support writing and running unit tests, including a foundation on which to build tests and the functionality to execute the tests and report their results. They are not solely tools for testing; they can also be used as development tools on a par with preprocessors and debuggers. Unit test frameworks can contribute to almost every stage of software development, including software architecture and design, code implementation and debugging, performance optimization, and quality assurance. [Paul Hamill, Unit Test Frameworks](https://www.oreilly.com/library/view/unit-test-frameworks/0596006896/ch01.html)
 
@@ -62,7 +65,7 @@ Key:
 | [Unquote](https://github.com/SwensenSoftware/Unquote) | F#
 | **[xUnit.net](https://xunit.net/)** | 
 
-# Isolation Frameworks
+# 🎭 Isolation Frameworks
 
 > An isolation framework is a set of programmable APIs that makes creating fake objects much simpler, faster, and shorter than hand-coding them. [Automate Planet](https://www.automatetheplanet.com/isolation-frameworks-fundamentals)
 
@@ -90,7 +93,7 @@ Key:
 | [Pose](https://github.com/tonerdo/pose) | Pose allows you to replace any .NET method (including static and non-virtual) with a delegate. It is similar to Microsoft Fakes but unlike it Pose is implemented entirely in managed code (Reflection Emit API). Everything occurs at runtime and in-memory, no unmanaged Profiling APIs and no file system pollution with re-written assemblies.
 | [Smocks](https://github.com/vanderkleij/Smocks) | Smocks uses some magic under the hood to mock the normally unmockable.
 
-# Acceptance Testing / Behavior-Driven Development / Specification by Example
+# 📝 Acceptance Testing / Behavior-Driven Development / Specification by Example
 
 | Library | Comment |
 |-----------|---------|
@@ -130,7 +133,7 @@ Key:
 | [xBehave.net](https://github.com/adamralph/xbehave.net) | *Discontinued*
 | [Xunit.Gherkin.Quick](https://github.com/ttutisani/Xunit.Gherkin.Quick)
 
-# Web Application Testing
+# 🌍 Web Application Testing
 
 Testing web application UI e.g. via browser engine.
 
@@ -155,7 +158,7 @@ Testing web application UI e.g. via browser engine.
 | [TestStack.Seleno](http://seleno.teststack.net/)
 | [WatiN](https://www.nuget.org/packages/WatiN/) | *Discontinued*
 
-# Web Testing
+# 🕷️ Web Testing
 
 Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 
@@ -177,7 +180,7 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
 | [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) | HTTP response stubbing, matchable on URL/Path, headers, cookies and body content patterns
 
-# Cloud Testing
+# ☁️ Cloud Testing
 
 | Library | Comment |
 |-----------|---------|
@@ -185,7 +188,7 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 | [Azure Functions Test Fixture](https://github.com/jeffhollan/functions-test-helper)
 | [Azure Resource Manager Template Toolkit (arm-ttk)](https://github.com/Azure/arm-ttk)
 
-# User Interface Testing
+# 🖱️ User Interface Testing
 
 Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 
@@ -202,7 +205,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [TestStack.White](https://github.com/TestStack/White) | *Discontinued*
 | [WinAppDriver](https://github.com/Microsoft/WinAppDriver) | - Windows Application Driver<br>- Service to support Selenium-like UI Test Automation on Windows Applications<br>- Supports testing Universal Windows Platform (UWP), Windows Forms (WinForms), Windows Presentation Foundation (WPF), and Classic Windows (Win32) apps on Windows 10 PCs
 
-# Database Testing
+# 💾 Database Testing
 
 | Library | Comment |
 |-----------|---------|
@@ -210,13 +213,13 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [NDbUnit](https://github.com/NDbUnit/NDbUnit) | - *Discontinued*<br>- Managing database state during unit testing
 | [Respawn](https://github.com/jbogard/Respawn) | A small utility to help in resetting test databases to a clean state
 
-# Video Game Testing
+# 🕹️ Video Game Testing
 
 | Library | Comment |
 |-----------|---------|
 | [GameDriver](https://gamedriver.io/) | 
 
-# Concurrent Testing
+# 🚦 Concurrent Testing
 
 | Library | Comment |
 |-----------|---------|
@@ -226,20 +229,20 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Osherove.ThreadTester](http://osherove.com/blog/2007/6/22/multi-threaded-unit-tests-with-osherovethreadtester.html) | *Discontinued*
 | [Typemock Racer](http://www.typemock.com/typemock-racer-product-old) | *Discontinued*
 
-# Memory Testing
+# 🧠 Memory Testing
 
 | Library | Comment |
 |-----------|---------|
 | [.NET Memory Profiler](http://memprofiler.com/) | Also known as MemProfiler
 | **[dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)**
 
-# Resilience Testing
+# 🐒 Resilience Testing
 
 | Library | Comment |
 |-----------|---------|
 | [Simmy](https://github.com/Polly-Contrib/Simmy) | Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET
 
-# Mutation Testing
+# 🧟 Mutation Testing
 
 > Mutation testing (or mutation analysis or program mutation) is used to design new software tests and evaluate the quality of existing software tests. Mutation testing involves modifying a program in small ways. Each mutated version is called a mutant and tests detect and reject mutants by causing the behavior of the original version to differ from the mutant. This is called killing the mutant. Test suites are measured by the percentage of mutants that they kill. New tests can be designed to kill additional mutants. Mutants are based on well-defined mutation operators that either mimic typical programming errors (such as using the wrong operator or variable name) or force the creation of valuable tests (such as dividing each expression by zero). The purpose is to help the tester develop effective tests or locate weaknesses in the test data used for the program or in sections of the code that are seldom or never accessed during execution. Mutation testing is a form of white-box testing. [Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
 
@@ -255,7 +258,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Testura.Mutation](https://github.com/Testura/Testura.Mutation)
 | [VisualMutator](http://visualmutator.github.io/web/)
 
-# Automated Exploratory Testing
+# 🗺️ Automated Exploratory Testing
 
 > Exploratory testing is an approach to software testing that is often described as simultaneous learning, test design, and execution. It focuses on discovery and relies on the guidance of the individual tester to uncover defects that are not easily covered in the scope of other tests. [Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/exploratory-testing)
 
@@ -264,7 +267,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | **[Microsoft IntelliTest](https://msdn.microsoft.com/en-us/library/dn823749.aspx)** | Part of Visual Studio<br>Previously known as:<br>- [Microsoft Code Digger](https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.MicrosoftCodeDigger)<br>- [Microsoft Pex](http://research.microsoft.com/en-us/projects/pex/)<br>- [Microsoft Smart Unit Tests](http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx)
 | [Randoop.NET](https://github.com/abb-iss/Randoop.NET)
 
-# Property-Based Testing
+# ⚙️ Property-Based Testing
 
 > Property based testing relies on properties. It checks that a function, program or whatever system under test abides by a property. Most of the time, properties do not have to go into too much details about the output. They just have to check for useful characteristics that must be seen in the output. [Nicolas Dubien, Introduction to Property Based Testing](https://medium.com/criteo-engineering/introduction-to-property-based-testing-f5236229d237)
 
@@ -274,7 +277,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | **[FsCheck](https://fscheck.github.io/FsCheck/)** | Port of [QuickCheck](https://hackage.haskell.org/package/QuickCheck)
 | [Hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) | F# port of [Hedgehog](https://hedgehog.qa/)
 
-# Approval Testing
+# ✅ Approval Testing
 
 | Library | Comment |
 |-----------|---------|
@@ -286,7 +289,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Snapshooter](https://swisslife-oss.github.io/snapshooter/) | 
 | [Verify](https://github.com/SimonCropp/Verify) | 
 
-# Code Coverage
+# 📊 Code Coverage
 
 | Library | Comment |
 |-----------|---------|
@@ -306,7 +309,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Typemock Isolator Coverage](http://www.typemock.com/coverage)
 | [Visual Studio Code Coverage](https://msdn.microsoft.com/en-us/library/dd537628.aspx) | Part of Visual Studio
 
-# Continuous Testing
+# 🔄 Continuous Testing
 
 > Continuous testing is the process of executing automated tests as part of the software delivery pipeline to obtain immediate feedback on the business risks associated with a software release candidate. [Wikipedia](https://en.wikipedia.org/wiki/Continuous_testing)
 
@@ -321,7 +324,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Parasoft dotTEST](https://www.parasoft.com/product/dottest/)
 | [Typemock Isolator Smart Runner](http://www.typemock.com/smart-runner)
 
-# Fluent Assertion Frameworks
+# ✨ Fluent Assertion Frameworks
 
 | Library | Comment |
 |-----------|---------|
@@ -332,7 +335,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Should Assertion Library](https://github.com/erichexter/Should) | *Discontinued*
 | [Shouldly](https://github.com/shouldly/shouldly)
 
-# Test Data Builders and Dummy Data Generators
+# 🔠 Test Data Builders and Dummy Data Generators
 
 | Library | Comment |
 |-----------|---------|
@@ -355,13 +358,13 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [TestStack.Dossier](http://dossier.teststack.net/)
 | [Tynamix ObjectFiller.NET](https://github.com/Tynamix/ObjectFiller.NET)
 
-# Quantum Programming
+# ⚛️ Quantum Programming
 
 | Library | Comment |
 |-----------|---------|
 | [Q# Test Project](https://docs.microsoft.com/en-us/azure/quantum/user-guide/testing-debugging?tabs=tabid-vs2022) |
 
-# Helper Libraries
+# 🧩 Helper Libraries
 
 | Library | Comment |
 |-----------|---------|
@@ -375,7 +378,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [SparkyTestHelpers](https://github.com/BrianSchroer/sparky-test-helpers) | Unit test helpers for config files, ASP.NET MVC, and Moq among others
 | [XMLUnit](https://www.xmlunit.org/) | Unit testing XML
 
-# Miscellaneous Tools
+# 🛠️ Miscellaneous Tools
 
 | Library | Comment |
 |-----------|---------|
