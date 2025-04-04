@@ -7,6 +7,7 @@ List of Automated Testing Frameworks for .NET related to methodologies and types
 - Acceptance Test-Driven Development (ATDD)
 - Property-Based Testing (PBT)
 - Unit / Integration / Acceptance / Specification / etc. Tests
+- Resilience Testing (Chaos-Engineering)
 
 Please feel free to suggest changes and/or new tools/frameworks.
 
@@ -26,6 +27,7 @@ Key:
 - [Video Game Testing](#video-game-testing)
 - [Concurrent Testing](#concurrent-testing)
 - [Memory Testing](#memory-testing)
+- [Resilience Testing](#resilience-testing)
 - [Mutation Testing](#mutation-testing)
 - [Automated Exploratory Testing](#automated-exploratory-testing)
 - [Property-Based Testing](#property-based-testing)
@@ -230,6 +232,12 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 |-----------|---------|
 | [.NET Memory Profiler](http://memprofiler.com/) | Also known as MemProfiler
 | **[dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)**
+
+# Resilience Testing
+
+| Library | Comment |
+|-----------|---------|
+| [Simmy]([http://memprofiler.com/](https://github.com/Polly-Contrib/Simmy)) | Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET
 
 # Mutation Testing
 
