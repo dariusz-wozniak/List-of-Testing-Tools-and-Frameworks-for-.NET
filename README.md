@@ -1,6 +1,6 @@
-# List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
+# 🧪 List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
 
-🧪 List of Automated Testing Frameworks for .NET related to methodologies and types of tests:
+List of Automated Testing Frameworks for .NET related to methodologies and types of tests:
 - Test-Driven Development (TDD)
 - Behavior-Driven Development (BDD)
 - Specification by Example (SBE)
