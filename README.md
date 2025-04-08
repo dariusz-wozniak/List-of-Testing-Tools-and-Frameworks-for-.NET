@@ -138,7 +138,7 @@ Testing web application UI e.g. via browser engine.
 
 | Library | Comment |
 |-----------|---------|
-| **[Atata](https://github.com/atata-framework/atata)**
+| [Atata](https://github.com/atata-framework/atata)
 | [Canopy](http://lefthandedgoat.github.io/canopy/) | F#
 | [Coypu](https://github.com/featurist/coypu)
 | [FluentAutomation](https://github.com/stirno/FluentAutomation) | *Discontinued*
