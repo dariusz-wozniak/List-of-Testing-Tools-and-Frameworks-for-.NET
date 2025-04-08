@@ -37,10 +37,9 @@ Key:
 - ✨ Fluent Assertion Frameworks
 - 🔠 Test Data Builders and Dummy Data Generators
 - ⚛️ Quantum Programming
-- 🧩 Helper Libraries
+- 🚑 Helper Libraries
 - 🛠️ Miscellaneous Tools
-- Visual Studio Add-Ins
-- References
+- 🧩 Visual Studio Add-Ins
 
 # 🧪 Unit Testing Frameworks
 
