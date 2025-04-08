@@ -20,7 +20,6 @@ Key:
 - Table of Contents
 - 🧪 Unit Testing Frameworks
 - 🎭 Isolation Frameworks
-    - Mock/replace anything (static, non-virtual, etc.)
 - 📝 Acceptance Testing / Behavior-Driven Development / Specification by Example
 - 🌍 Web Application Testing
 - 🕷️ Web Testing
