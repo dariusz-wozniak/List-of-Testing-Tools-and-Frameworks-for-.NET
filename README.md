@@ -16,8 +16,6 @@ Key:
 
 # Table of Contents
 
-- List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
-- Table of Contents
 - 🧪 Unit Testing Frameworks
 - 🎭 Isolation Frameworks
 - 📝 Acceptance Testing / Behavior-Driven Development / Specification by Example
