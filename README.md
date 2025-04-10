@@ -323,6 +323,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 
 | Library | Comment |
 |-----------|---------|
+| [Awesome Assertions](https://awesomeassertions.org/)
 | [Fluent Assertions](http://www.fluentassertions.com/)
 | [NFluent](http://www.n-fluent.net/)
 | [NUnitEx](https://code.google.com/archive/p/nunitex/) | *Discontinued*
