@@ -67,6 +67,7 @@ Key:
 
 | Library | Comment |
 |-----------|---------|
+| [CleanMoq](https://techhub.social/@hassanhabib/110862012527371611) | *Discontinued*, short-lived fork of Moq
 | **[FakeItEasy](http://fakeiteasy.github.io/)**
 | [Foq](https://github.com/fsprojects/Foq) | F#, *Discontinued*
 | [JustMock](http://www.telerik.com/products/mocking.aspx) | Non-free
