@@ -231,7 +231,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [.NET Memory Profiler](http://memprofiler.com/) | Also known as MemProfiler
 | **[dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)**
 
-# 🏋️ Load Testing
+- 🏋️ Load Testing
 
 | Library | Comment |
 |-----------|---------|
@@ -239,6 +239,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Apache JMeter](https://jmeter.apache.org/) |
 | [Azure Load Testing](https://learn.microsoft.com/en-us/azure/load-testing/overview-what-is-azure-load-testing) |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/)
+| [DFrame](https://github.com/Cysharp/DFrame/) | This library allows you to write distributed load test scenarios in plain C#, no needs weird gui, dsl, xml, json, yaml. In addition to HTTP/1, you can test HTTP/2, gRPC, MagicOnion, Photon, or original network transport by writing in C#.
 | [Gatling](https://gatling.io/)
 | [JMEter DSL .NET](https://abstracta.github.io/jmeter-dotnet-dsl/) |
 | [k6](https://k6.io/)
