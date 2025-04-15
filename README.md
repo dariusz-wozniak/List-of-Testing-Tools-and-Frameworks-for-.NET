@@ -231,7 +231,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [.NET Memory Profiler](http://memprofiler.com/) | Also known as MemProfiler
 | **[dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)**
 
-- 🏋️ Load Testing
+# 🏋️ Load Testing
 
 | Library | Comment |
 |-----------|---------|
