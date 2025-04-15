@@ -237,6 +237,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 |-----------|---------|
 | [Apache Bench](https://httpd.apache.org/docs/2.4/programs/ab.html) | Also known as `ab`
 | [Apache JMeter](https://jmeter.apache.org/) |
+| [Artillery](https://artillery.io/)
 | [Azure Load Testing](https://learn.microsoft.com/en-us/azure/load-testing/overview-what-is-azure-load-testing) |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/)
 | [DFrame](https://github.com/Cysharp/DFrame/) 
