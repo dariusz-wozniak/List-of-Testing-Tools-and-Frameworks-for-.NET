@@ -27,6 +27,7 @@ Key:
 - 🕹️ Video Game Testing
 - 🚦 Concurrent Testing
 - 🧠 Memory Testing
+- 🏋️ Load Testing
 - 🐒 Resilience Testing
 - 🧟 Mutation Testing
 - 🗺️ Automated Exploratory Testing
@@ -141,7 +142,6 @@ Testing web application UI e.g. via browser engine.
 | [FluentAutomation](https://github.com/stirno/FluentAutomation) | *Discontinued*
 | [IeUnit](https://code.google.com/archive/p/ieunit/) | *Discontinued*
 | [Ivonna](http://web.archive.org/web/20150801175517/http://ivonna.biz/) | *Discontinued*
-| [Netling](https://github.com/hallatore/Netling) | Load tests for web
 | [NUnitAsp](http://nunitasp.sourceforge.net/) | *Discontinued*
 | **[Playwright for .NET](https://github.com/microsoft/playwright-sharp)** | - Port of [Playwright](https://playwright.dev/)<br />- Developed by Microsoft
 | [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp) | - See also [Puppeteer Sharp Contributions](https://github.com/hlaueriksson/puppeteer-sharp-contrib)
@@ -171,7 +171,6 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 | [MockNet](https://github.com/Theorem/MockNet) | Friendly mocking framework to unit test the System.Net.Http namespace
 | [MockingBird](http://web.archive.org/web/20180412021202/https://archive.codeplex.com/?p=mockingbird) | *Discontinued*
 | [My Tested ASP.NET](https://docs.mytestedasp.net/) | A fluent unit testing library for ASP.NET Core MVC 
-| [NBomber](https://nbomber.com/) | Load testing
 | [PactNet](https://github.com/pact-foundation/pact-net) |  - Port of [Pact](https://pact.io/)<br />- Testing for integrating web apps, APIs and microservices
 | [Stubbery](https://github.com/markvincze/Stubbery) | API stubs
 | [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) | HTTP response stubbing, matchable on URL/Path, headers, cookies and body content patterns
@@ -231,6 +230,21 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 |-----------|---------|
 | [.NET Memory Profiler](http://memprofiler.com/) | Also known as MemProfiler
 | **[dotMemory Unit](https://www.jetbrains.com/dotmemory/unit/)**
+
+# 🏋️ Load Testing
+
+| Library | Comment |
+|-----------|---------|
+| [Apache Bench](https://httpd.apache.org/docs/2.4/programs/ab.html) | Also known as `ab`
+| [Apache JMeter](https://jmeter.apache.org/) |
+| [Azure Load Testing](https://learn.microsoft.com/en-us/azure/load-testing/overview-what-is-azure-load-testing) |
+| [BenchmarkDotNet](https://benchmarkdotnet.org/)
+| [Gatling](https://gatling.io/)
+| [JMEter DSL .NET](https://abstracta.github.io/jmeter-dotnet-dsl/) |
+| [k6](https://k6.io/)
+| [NBomber](https://nbomber.com/) |
+| [Netling](https://github.com/hallatore/Netling) |
+| [West Wind WebSurge](https://websurge.west-wind.com/)
 
 # 🐒 Resilience Testing
 
