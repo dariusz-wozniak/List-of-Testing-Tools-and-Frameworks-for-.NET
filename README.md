@@ -118,7 +118,7 @@ Key:
 | [Reqnroll](https://reqnroll.net/) | Open-source reboot of the SpecFlow project
 | [Robot Framework](http://robotframework.org/)
 | [Spec4Net](https://www.nuget.org/packages/Spec4Net/) | *Discontinued*
-| [SpecFlow](http://www.specflow.org/)
+| [SpecFlow](http://www.specflow.org/) | *Discontinued*
 | [SpecsFor](http://specsfor.com/)
 | [Specter](http://specter.sourceforge.net/) | *Discontinued*
 | [StoryQ](https://github.com/wforney/storyq) | *Discontinued*
