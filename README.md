@@ -206,6 +206,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | Library | Comment |
 |-----------|---------|
 | [DbUnit.NET](http://dbunit-net.sourceforge.net/) | *Discontinued*
+| [Entity Framework Effort](https://entityframework-effort.net/) | Fake ObjectContext
 | [NDbUnit](https://github.com/NDbUnit/NDbUnit) | - *Discontinued*<br>- Managing database state during unit testing
 | [Respawn](https://github.com/jbogard/Respawn) | A small utility to help in resetting test databases to a clean state
 
