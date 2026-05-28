@@ -51,6 +51,7 @@ Key:
 | [csUnit](http://www.csunit.org/) | *Discontinued*
 | [EMTF](https://archive.is/rptLh#selection-360.0-360.7) | - *Discontinued*<br>- Known as Embeddable Micro Test Framework
 | [Expecto](https://github.com/haf/Expecto)  | F#
+| [Fixie](http://fixie.github.io/) | Convention for tests
 | [FsUnit](http://fsprojects.github.io/FsUnit/) |  F#
 | [Fuchu](https://github.com/mausch/Fuchu) | F# / C# / VB.NET
 | [MbUnit](https://code.google.com/p/mb-unit/) | *Discontinued*
@@ -385,7 +386,6 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Automoqer](https://github.com/rbengtsson/Automoqer) | Auto mocking provider for Moq, *Discontinued*
 | [ConventionTests](http://conventiontests.teststack.net/) | Library that makes it easy to build validation rules for convention validation tests
 | [FakeLocalTimeZone](https://github.com/dariusz-wozniak/FakeLocalTimeZone) | Fake of system TimeZone
-| [Fixie](http://fixie.github.io/) | Convention for tests
 | [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllers
 | [MockQueryable](https://github.com/romantitov/MockQueryable) | Extensions for mocking EfCore
 | [SparkyTestHelpers](https://github.com/BrianSchroer/sparky-test-helpers) | Unit test helpers for config files, ASP.NET MVC, and Moq among others
