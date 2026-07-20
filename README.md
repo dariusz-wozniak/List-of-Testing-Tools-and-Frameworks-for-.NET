@@ -89,8 +89,9 @@ Key:
 | Library | Comment |
 |-----------|---------|
 | [Harmony 2.0](https://harmony.pardeike.net/) | Runtime alter functionality by monkey patching methods
-| [Pose](https://github.com/tonerdo/pose) | Pose allows you to replace any .NET method (including static and non-virtual) with a delegate. It is similar to Microsoft Fakes but unlike it Pose is implemented entirely in managed code (Reflection Emit API). Everything occurs at runtime and in-memory, no unmanaged Profiling APIs and no file system pollution with re-written assemblies.
-| [Smocks](https://github.com/vanderkleij/Smocks) | Smocks uses some magic under the hood to mock the normally unmockable.
+| [Pose](https://github.com/tonerdo/pose) | Replace any .NET method (including static and non-virtual) with a delegate
+| [Poser](https://github.com/Miista/Pose) | Fork of Pose
+| [Smocks](https://github.com/vanderkleij/Smocks) | Smocks uses some magic under the hood to mock the normally unmockable
 
 # 📝 Acceptance Testing / Behavior-Driven Development / Specification by Example
 
