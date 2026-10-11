@@ -104,6 +104,7 @@ Key:
 | [BDTest](https://github.com/thomhurst/BDTest)
 | [Concordion.NET](http://concordion.org/dotnet/)
 | [CoreBDD](https://github.com/stevenknox/CoreBDD/)
+| [Cratis Specifications](https://github.com/Cratis/Specifications) | Given/When/Then specs on xUnit and NUnit, in the style of MSpec
 | [Cucumber](https://cucumber.io/)
 | [Cuke4Nuke](https://github.com/richardlawrence/Cuke4Nuke/wiki) | *Discontinued*
 | [FitNesse](http://fitnesse.org/)
