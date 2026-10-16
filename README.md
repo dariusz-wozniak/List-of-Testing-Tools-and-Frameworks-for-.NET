@@ -99,7 +99,7 @@ Key:
 |-----------|---------|
 | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net) | *Discontinued*
 | [Avignon](http://web.archive.org/web/20160711113629/http://www.nolacom.com/avignon/) | *Discontinued*
-| [BDDfy](http://bddfy.teststack.net/)
+| [BDDfy](https://github.com/TestStack/TestStack.BDDfy)
 | [BddPipe](https://github.com/craigrice/bddpipe)
 | [BDTest](https://github.com/thomhurst/BDTest)
 | [Concordion.NET](http://concordion.org/dotnet/)
@@ -302,7 +302,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net) | 
 | [DiffEngine](https://github.com/VerifyTests/DiffEngine) | Manages launching and cleanup of diff tools. Used by ApprovalTests, Shouldly, Verify
 | [Polaroider](https://wickedflame.github.io/Polaroider/) |
-| [Shouldly](https://github.com/shouldly/shouldly) | See [`ShouldMatchApproved`](https://putlocker-watch-spectre-online-movie-free.readthedocs.io/en/latest/assertions/shouldMatchApproved.html)
+| [Shouldly](https://github.com/shouldly/shouldly) | See [`ShouldMatchApproved`](https://github.com/shouldly/shouldly/blob/master/documentation/documentation/equality/matchApproved.md)
 | [Snapper](https://github.com/theramis/Snapper) |
 | [Snapshooter](https://swisslife-oss.github.io/snapshooter/) | 
 | [Verify](https://github.com/SimonCropp/Verify) | 
@@ -391,7 +391,7 @@ Testing system UI (Win32, WinForms, UWP, etc.), embedded, mobile apps
 | [Automoqer](https://github.com/rbengtsson/Automoqer) | Auto mocking provider for Moq, *Discontinued*
 | [ConventionTests](http://conventiontests.teststack.net/) | Library that makes it easy to build validation rules for convention validation tests
 | [FakeLocalTimeZone](https://github.com/dariusz-wozniak/FakeLocalTimeZone) | Fake of system TimeZone
-| [FluentMvcTesting](http://fluentmvctesting.teststack.net/) | Type-safe tests against ASP.NET MVC Controllers
+| [FluentMvcTesting](https://github.com/TestStack/TestStack.FluentMVCTesting) | Type-safe tests against ASP.NET MVC Controllers
 | [MockQueryable](https://github.com/romantitov/MockQueryable) | Extensions for mocking EfCore
 | [SparkyTestHelpers](https://github.com/BrianSchroer/sparky-test-helpers) | Unit test helpers for config files, ASP.NET MVC, and Moq among others
 | [XMLUnit](https://www.xmlunit.org/) | Unit testing XML
