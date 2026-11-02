@@ -171,6 +171,7 @@ Testing ASP.NET, HTTP, HttpClient, REST, Web Sockets, AMQP, Blazor etc.
 | [FakeHttpContext](https://github.com/vadimzozulya/FakeHttpContext) | Fake context for `HttpContext.Current`
 | [Flurl](https://github.com/tmenier/Flurl) | URL builder and HTTP client library.
 | [HttpClient Interception](https://github.com/justeat/httpclient-interception) | Simple library to provide stub responses in tests using HttpClient.
+| [Keploy](https://github.com/keploy/keploy) | Records real API traffic of .NET services and replays it as tests with dependency mocks
 | [Mock4Net](https://github.com/alexvictoor/mock4net) | A fluent API allows to specify the behavior of the server and hence easily stub and mock webservices and REST resources
 | [MockHttp](https://github.com/richardszalay/mockhttp) | Replacement for `HttpMessageHandler`
 | [MockNet](https://github.com/Theorem/MockNet) | Friendly mocking framework to unit test the System.Net.Http namespace
